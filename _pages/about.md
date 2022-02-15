@@ -18,7 +18,13 @@ Education
 Publications
 ======
 
-* Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (***TOIS***).
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022**). [Preprint Version](https://doi.org/10.1145/3485447.3511966).
+
+* Zirui, Zhu and ***Ziyi, Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
+
+* Xuesong Chen, ***Ziyi Ye***, Xiaohui Xie, Weihang Su, Shuqi Zhu, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. (**WSDM 2022**). [Preprint Version](https://arxiv.org/abs/2110.07225).
+
+* Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (***TOIS***). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3448127).
 
 * Jiayu Li, ***Ziyi Ye***, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. THUIR at the NTCIR-15 Micro-activity Retrieval Task. (**NCTIR 2020**). [Preprint Version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf). 
 
