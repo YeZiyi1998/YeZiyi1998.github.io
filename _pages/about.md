@@ -35,7 +35,7 @@ Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thu
 
 * Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
 
-Projects
+Competitions
 ======
 * We won the 1st place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](http://ceur-ws.org/Vol-2517/T1-8.pdf).
 * We won the 1st place in the NTCIR-15 Micro-activity Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf).
