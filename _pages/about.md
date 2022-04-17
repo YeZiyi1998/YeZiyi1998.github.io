@@ -43,9 +43,10 @@ Competitions
 Datasets
 ======
 
-* [Search-Brainwave Dataset](http://www.thuir.cn/Search_Brainwave/). 
+* [Search-Brainwave Dataset](http://www.thuir.cn/Search_Brainwave/). In our SIGIR'22 Full Paper *Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals*.
 
-* [UERCM Dataset](https://cloud.tsinghua.edu.cn/d/4ede7ce124cc46f3b42e/?p=%2Fdataset&mode=list). 
+
+* [UERCM Dataset](https://cloud.tsinghua.edu.cn/d/4ede7ce124cc46f3b42e/?p=%2Fdataset&mode=list). In our The Web Conf’22 Full Paper *Towards a Better Understanding of Human Reading Comprehension with Brain Signals*.
 
 * [TianGong-CRL Dataset](http://www.thuir.cn/TianGong-CRL/). In our ASIST'20 Poster *Investigating COVID-19-Related Query Logs of Chinese Search Engine Users*.
 
