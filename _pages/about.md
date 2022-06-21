@@ -18,7 +18,7 @@ Education
 Publications
 ======
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma.  Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A).
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma.  Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
 
 * ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966).
 
