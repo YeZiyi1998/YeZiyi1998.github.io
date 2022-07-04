@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
+I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
 
 Education
 ======
@@ -18,7 +18,9 @@ Education
 Publications
 ======
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma.  Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma.  . (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
+
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). Preprint Version.
 
 * ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966).
 
