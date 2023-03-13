@@ -18,7 +18,7 @@ Education
 Publications
 ======
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](http://arxiv.org/abs/2208.08097).
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258).
 
 * ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
 
@@ -26,7 +26,7 @@ Publications
 
 * Zirui, Zhu and ***Ziyi, Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
 
-* Xuesong Chen, ***Ziyi Ye***, Xiaohui Xie, Weihang Su, Shuqi Zhu, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. (**WSDM 2022** demo paper, CCF B). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3488560.3502185).
+* Xuesong Chen, ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Weihang Su, Shuqi Zhu, Yike Zhang, Xiaorong Gao, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. (**WSDM 2022** demo paper, CCF B). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3488560.3502185).
 
 * Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (***TOIS***, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3448127).
 
@@ -54,9 +54,10 @@ Datasets
 
 Honors and Awards
 ======
+* 2022\. **China National Scholarship**, Chinese Government.
 * 2017\. Overall Excellence Scholarship, Tsinghua University.
 * 2018\. Overall Excellence Scholarship, Tsinghua University.
 * 2019\. Academic Excellence Scholarship, Tsinghua University.
-* 2016\. Silver medal in Chinese Mathematical Olympiad(CMO), China Mathematical Federation.
+* 2016\. **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 * 2019\. Bronze medal in CCF Collegiate Computer Systems & Program contest, China Computer Federation.
 
