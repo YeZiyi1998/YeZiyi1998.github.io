@@ -18,11 +18,11 @@ Education
 Publications
 ======
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258).
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code][https://github.com/YeZiyi1998/DL4EEG-Classification].
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code][http://www.thuir.cn/Search_Brainwave/].
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966).
+* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code][https://github.com/YeZiyi1998/UERCM].
 
 * Zirui, Zhu and ***Ziyi, Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
 
@@ -46,7 +46,6 @@ Datasets
 ======
 
 * [Search-Brainwave Dataset](http://www.thuir.cn/Search_Brainwave/). In our SIGIR'22 Full Paper *Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals*.
-
 
 * [UERCM Dataset](https://cloud.tsinghua.edu.cn/d/4ede7ce124cc46f3b42e/?p=%2Fdataset&mode=list). In our The Web Conf’22 Full Paper *Towards a Better Understanding of Human Reading Comprehension with Brain Signals*.
 
