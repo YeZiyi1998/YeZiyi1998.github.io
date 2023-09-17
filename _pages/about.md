@@ -13,6 +13,8 @@ I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), [Departmen
 Education
 ======
 * [08.2016-07.2020] B.S., Department of Computer Science and Technology, Tsinghua University, China.
+* [07.2023-11.2023] Guest Ph.D., Department of Computer Science (DIKU) and the Pioneer Centre for AI , University of Copenhagen, Denmark.
+<!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
 * [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 
 Publications
@@ -37,7 +39,7 @@ Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thu
 
 * Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
 
-Patenes
+Patents
 ======
 * Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, ZHU Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent(granted) \& US Patent(under review)**).
 
