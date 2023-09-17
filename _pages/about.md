@@ -13,7 +13,7 @@ I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), [Departmen
 Education
 ======
 * [08.2016-07.2020] B.S., Department of Computer Science and Technology, Tsinghua University, China.
-* [07.2023-11.2023] Guest Ph.D., Department of Computer Science (DIKU) and the Pioneer Centre for AI , University of Copenhagen, Denmark.
+* [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI , University of Copenhagen, Denmark.
 <!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
 * [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 
@@ -41,7 +41,7 @@ Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thu
 
 Patents
 ======
-* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, ZHU Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent(granted) \& US Patent(under review)**).
+* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, ZHU Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent (granted) & US Patent (under review)**).
 
 Competitions
 ======
