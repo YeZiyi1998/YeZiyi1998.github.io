@@ -18,13 +18,13 @@ Education
 Publications
 ======
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
+* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code](http://www.thuir.cn/Search_Brainwave/).
+* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code](http://www.thuir.cn/Search_Brainwave/).
 
-* ***Ziyi, Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code](https://github.com/YeZiyi1998/UERCM).
+* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code](https://github.com/YeZiyi1998/UERCM).
 
-* Zirui, Zhu and ***Ziyi, Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
+* Zirui Zhu and ***Ziyi Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
 
 * Xuesong Chen, ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Weihang Su, Shuqi Zhu, Yike Zhang, Xiaorong Gao, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. (**WSDM 2022** demo paper, CCF B). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3488560.3502185).
 
@@ -36,6 +36,10 @@ Publications
 Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
 
 * Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
+
+Patenes
+======
+* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, ZHU Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent(granted) \& US Patent(under review)**).
 
 Competitions
 ======
