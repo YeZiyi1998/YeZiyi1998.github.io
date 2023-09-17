@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
+I am now a fourth year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
 
 Education
 ======
 * [08.2016-07.2020] B.S., Department of Computer Science and Technology, Tsinghua University, China.
-* [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI , University of Copenhagen, Denmark.
 <!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
 * [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark.
 
 Publications
 ======
