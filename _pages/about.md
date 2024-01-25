@@ -12,7 +12,7 @@ I am now a fourth year Ph.D. student in [THUIR](http://www.thuir.cn/), [Departme
 
 Education
 ======
-* [08.2016-07.2020] B.S., Department of Computer Science and Technology, Tsinghua University, China.
+* [08.2016-07.2020] B.S. student, Department of Computer Science and Technology, Tsinghua University, China.
 <!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
 * [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark.
