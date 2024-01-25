@@ -16,6 +16,7 @@ Education
 <!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
 * [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark.
+* [11.2023-02.2024] Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands.
 
 Publications
 ======
@@ -40,6 +41,8 @@ Publications
 Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
 
 * Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
+
+* ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo. Language generation from brain recordings. [Preprint Version](https://arxiv.org/abs/2311.09889). [Code](https://github.com/YeZiyi1998/Brain-language-generation).
 
 Patents
 ======
