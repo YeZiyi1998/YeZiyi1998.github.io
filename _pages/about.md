@@ -71,3 +71,9 @@ Honors and Awards
 * 2016\. **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 * 2019\. Bronze medal in CCF Collegiate Computer Systems & Program contest, China Computer Federation.
 
+Talks
+======
+* 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about "Brain-Computer Interface for Search". [Slide]
+* 12.2023, I gave an invited talk in the Information Retrieval Lab in the Institute of Information in University of Amsterdam about "Language Generation from Brain Recordings".
+* 07.2023, I gave an invited talk to Lenovo Inc about "Context-based Brain Decoding".
+
