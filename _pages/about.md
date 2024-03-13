@@ -20,7 +20,7 @@ Education
 
 News
 ======
-* 12.2023, I gave an invited talk in the Information Retrieval Lab in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
+* 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 07.2023, I gave an invited talk to Lenovo Inc about ***Context-based Brain Decoding***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about ***Brain-Computer Interface for Search***. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)
 
