@@ -18,6 +18,12 @@ Education
 * [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark.
 * [11.2023-02.2024] Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands.
 
+News
+======
+* 12.2023, I gave an invited talk in the Information Retrieval Lab in the Institute of Information in University of Amsterdam about "Language Generation from Brain Recordings". [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
+* 07.2023, I gave an invited talk to Lenovo Inc about "Context-based Brain Decoding". [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
+* 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about "Brain-Computer Interface for Search". [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)
+
 Publications
 ======
 
@@ -71,9 +77,6 @@ Honors and Awards
 * 2016\. **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 * 2019\. Bronze medal in CCF Collegiate Computer Systems & Program contest, China Computer Federation.
 
-Talks
-======
-* 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about "Brain-Computer Interface for Search". [Slide]
-* 12.2023, I gave an invited talk in the Information Retrieval Lab in the Institute of Information in University of Amsterdam about "Language Generation from Brain Recordings".
-* 07.2023, I gave an invited talk to Lenovo Inc about "Context-based Brain Decoding".
+
+
 
