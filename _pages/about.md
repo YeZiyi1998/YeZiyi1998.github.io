@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
+I am now a final year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, user behavior analysis, brain machine interface and etc.
 
 Education
 ======
@@ -29,11 +29,13 @@ Publications
 
 * ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. Relevance Feedback with Brain Signals. (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback).
 
-* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
-
 * ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code](http://www.thuir.cn/Search_Brainwave/).
 
 * ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code](https://github.com/YeZiyi1998/UERCM).
+
+* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
+
+* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper, Acceptance Rate: 26.1%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
 
 * Zirui Zhu and ***Ziyi Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
 
@@ -43,16 +45,20 @@ Publications
 
 * Jiayu Li, ***Ziyi Ye***, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. THUIR at the NTCIR-15 Micro-activity Retrieval Task. (**NCTIR 2020**). [Preprint Version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf). 
 
-* ***Ziyi Ye***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating COVID-19-Related Query Logs of 
-Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
+* ***Ziyi Ye***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating COVID-19-Related Query Logs of Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
 
 * Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
 
 * ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo. Language generation from brain recordings. [Preprint Version](https://arxiv.org/abs/2311.09889). [Code](https://github.com/YeZiyi1998/Brain-language-generation).
 
+Teaching
+======
+* 2024. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor of ``Retrieval-argumented generation''.)
+* 2020, 2021, 2022, 2023, 2024. Teaching assistant at ``Search Engine'', Tsinghua University.
+
 Patents
 ======
-* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, ZHU Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent (granted) & US Patent (under review)**).
+* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, Zhu Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent (granted) & US Patent (under review)**).
 
 Competitions
 ======
@@ -71,12 +77,7 @@ Datasets
 Honors and Awards
 ======
 * 2022\. **China National Scholarship**, Chinese Government.
-* 2017\. Overall Excellence Scholarship, Tsinghua University.
-* 2018\. Overall Excellence Scholarship, Tsinghua University.
+* 2017, 2018, 2023\. Overall Excellence Scholarship, Tsinghua University.
 * 2019\. Academic Excellence Scholarship, Tsinghua University.
 * 2016\. **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 * 2019\. Bronze medal in CCF Collegiate Computer Systems & Program contest, China Computer Federation.
-
-
-
-
