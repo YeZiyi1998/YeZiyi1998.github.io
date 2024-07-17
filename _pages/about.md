@@ -53,8 +53,8 @@ Publications
 
 Teaching
 ======
-* 2024. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor of ``Retrieval-argumented generation''.)
-* 2020, 2021, 2022, 2023, 2024. Teaching assistant at ``Search Engine'', Tsinghua University.
+* 2024\. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor of "Retrieval-argumented generation".)
+* 2020, 2021, 2022, 2023, 2024\. Teaching assistant at "Fundamental Search Engine", Tsinghua University.
 
 Patents
 ======
