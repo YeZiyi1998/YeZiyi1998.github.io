@@ -27,6 +27,8 @@ News
 Publications
 ======
 
+* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper \ oral, Acceptance Rate: 3.97%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
+
 * ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. Relevance Feedback with Brain Signals. (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback).
 
 * ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code](http://www.thuir.cn/Search_Brainwave/).
@@ -34,8 +36,6 @@ Publications
 * ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code](https://github.com/YeZiyi1998/UERCM).
 
 * ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
-
-* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper, Acceptance Rate: 26.1%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
 
 * Zirui Zhu and ***Ziyi Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
 
