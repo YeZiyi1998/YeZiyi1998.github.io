@@ -27,7 +27,7 @@ News
 Publications
 ======
 
-* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper \ oral, Acceptance Rate: 3.97%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
+* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper, Oral Acceptance Rate: 3.97%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
 
 * ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. Relevance Feedback with Brain Signals. (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback).
 
