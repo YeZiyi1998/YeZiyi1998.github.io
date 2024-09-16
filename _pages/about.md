@@ -40,36 +40,35 @@ Publications
 | ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo |
 | MM 2024 full paper, Oral Acceptance Rate: 3.97%, CCF A. [\[Paper\]](https://arxiv.org/abs/2402.15708) [\[Code\]](https://github.com/YeZiyi1998/Brain-Query-Augmentation) |
 
+| **Relevance Feedback with Brain Signals** | 
+| :------ | 
+| ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang | 
+| TOIS, CCF A. [\[Paper\]](https://arxiv.org/abs/2312.05669) [\[Code\]](https://github.com/THUIR/Brain-Relevance-Feedback) | 
+
 | **Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals** | 
 | :------ | 
 | ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| SIGIR 2022 full paper, Acceptance Rate: 20.3%, CCF A. [$$ Preprint Version $$](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf) [$$ Dataset&Code $$](http://www.thuir.cn/Search_Brainwave/) | 
+| SIGIR 2022 full paper, Acceptance Rate: 20.3%, CCF A. [\[Paper\]](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf) [\[Code & Dataset\]](http://www.thuir.cn/Search_Brainwave/) | 
 
-| **Towards a Better Understanding of Human Reading Comprehension with Brain Signals** | | :------ | 
+| **Towards a Better Understanding of Human Reading Comprehension with Brain Signals** | 
+| :------ | 
 | ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| The Web Conf 2022 full paper, Acceptance Rate: 17.7%, CCF A. [$$ Preprint Version $$](https://doi.org/10.1145/3485447.3511966) [$$ Code $$](https://github.com/YeZiyi1998/UERCM) | 
+| The Web Conf 2022 full paper, Acceptance Rate: 17.7%, CCF A. [\[Paper\]](https://doi.org/10.1145/3485447.3511966) [\[Code\]](https://github.com/YeZiyi1998/UERCM) | 
 
 | **Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access** | 
 | :------ | 
 | ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| MM 2022 full paper, Acceptance Rate: 27.9%, CCF A. [$$ Preprint Version $$](https://dl.acm.org/doi/abs/10.1145/3503161.3548258) [$$ Code $$](https://github.com/YeZiyi1998/DL4EEG-Classification) | 
-
-| **Relevance Feedback with Brain Signals** | 
-| :------ | 
-| ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang | 
-| TOIS, CCF A. [$$ Preprint Version $$](https://arxiv.org/abs/2312.05669) [$$ Code $$](https://github.com/THUIR/Brain-Relevance-Feedback) | 
-<!-- 
-* ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. . (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback). -->
+| MM 2022 full paper, Acceptance Rate: 27.9%, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548258) [\[Code\]](https://github.com/YeZiyi1998/DL4EEG-Classification) | 
 
 | **A Hybrid Framework for Session Context Modeling** | 
 | :------ | 
 |  Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma | 
-| TOIS, CCF A. [$$ Preprint Version $$](https://dl.acm.org/doi/abs/10.1145/3448127) | 
+| TOIS, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3448127) | 
 
 | **Language generation from brain recordings** | 
 | :------ | 
 |  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
-| TOIS, CCF A. [$$Preprint Version$$](https://arxiv.org/abs/2311.09889). [$$Code$$](https://github.com/YeZiyi1998/Brain-language-generation) |
+| TOIS, CCF A. [\[Paper\]](https://arxiv.org/abs/2311.09889). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
 
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
