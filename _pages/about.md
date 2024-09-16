@@ -69,7 +69,7 @@ Publications
 | **Language generation from brain recordings** | 
 | :------ | 
 |  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
-| TOIS, CCF A. [\[Paper\]](https://arxiv.org/abs/2311.09889). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
+| Nature Commun. Biol. under revision. [\[Paper\]](https://arxiv.org/abs/2311.09889). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
 
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
