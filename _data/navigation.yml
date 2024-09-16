@@ -1,22 +1,11 @@
 # main links links
 main:
+
   - title: "Education"
-    url: /#education
+    url: /#education-and-experience
 
   - title: "Publications"
-    url: /#publications
-  
-  - title: "Competitions"
-    url: /#competitions
-  
-  - title: "Datasets"
-    url: /#datasets
-  
-  - title: "Honors"
-    url: /#honors-and-awards
+    url: /#publications    
 
-  
-  
-  
-    
-
+  - title: "Honors and Awards"
+    url: /#honor-and-awards    

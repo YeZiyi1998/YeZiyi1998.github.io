@@ -1,0 +1,190 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1109/ICIP.2019.8803460
+  title: Emotion Recognition Based on Multi-View Body Gestures
+  authors:
+  - Zhijuan Shen
+  - Jun Cheng
+  - Xiping Hu
+  - Qian Dong
+  publisher: 2019 IEEE International Conference on Image Processing (ICIP)
+  date: '2019-09-01'
+  link: https://doi.org/ghjxdq
+  _cache: 89a5fb4505c14eaacb13633c7bd4d2c91702de9e1c16d8a355ee34eeb4399af3
+- id: doi:10.1007/978-3-030-73197-7_6
+  title: Latent Graph Recurrent Network for Document Ranking
+  authors:
+  - Qian Dong
+  - Shuzi Niu
+  publisher: Database Systems for Advanced Applications
+  date: '2021-01-01'
+  link: https://doi.org/gsh8ps
+  _cache: 4e06442d593fef6bcab116dc066b392bd3422bc2fec918a8a8bd87abcc7bc96f
+- id: doi:10.1145/3404835.3462931
+  title: Legal Judgment Prediction via Relational Learning
+  authors:
+  - Qian Dong
+  - Shuzi Niu
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq4w8t
+  _cache: 0c5e230d84062b74d627839c40a95747a4acdf46f9ec17909cc5360b035f500c
+- id: doi:10.1007/s41019-022-00179-3
+  title: Disentangled Graph Recurrent Network for Document Ranking
+  authors:
+  - Qian Dong
+  - Shuzi Niu
+  - Tao Yuan
+  - Yucheng Li
+  publisher: Data Science and Engineering
+  date: '2022-02-15'
+  link: https://doi.org/gsh8pw
+  _cache: ee3232a0cdef5146e0be28c7078d785d21b4d269acf250879cd54f1a6ee1169d
+- id: doi:10.1145/3477495.3531997
+  title: Incorporating Explicit Knowledge in Pre-trained Language Models for Passage
+    Re-ranking
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Suqi Cheng
+  - Shuaiqiang Wang
+  - Zhicong Cheng
+  - Shuzi Niu
+  - Dawei Yin
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/gsh8px
+  _cache: fd1d6920779224649e88be952bd1512838f6b064dd8b95543d19860ccca6324b
+- id: doi:10.48550/arXiv.2301.12152
+  title: Layout-aware Webpage Quality Assessment
+  authors:
+  - Anfeng Cheng
+  - Yiding Liu
+  - Weibin Li
+  - Qian Dong
+  - Shuaiqiang Wang
+  - Zhengjie Huang
+  - Shikun Feng
+  - Zhicong Cheng
+  - Dawei Yin
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsh8pz
+  _cache: fa9eaa0bd5cc391d412c08199cafcb92b3838ed0a6941111025498011d5a33ac
+- id: doi:10.1007/978-981-99-7254-8_42
+  title: "Incorporating Social-Aware User Preference for\_Video Recommendation"
+  authors:
+  - Xuanji Xiao
+  - Huaqiang Dai
+  - Qian Dong
+  - Shuzi Niu
+  - Yuzhen Liu
+  - Pei Liu
+  publisher: "Web Information Systems Engineering \u2013 WISE 2023"
+  date: '2023-01-01'
+  link: https://doi.org/gs2pcb
+  _cache: 9eebd8768d07ce2748f6e1a8c182909b639f988b5770070f64b2270ce0817bc8
+- id: doi:10.1145/3539618.3591874
+  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+  authors:
+  - Xiaohui Xie
+  - Qian Dong
+  - Bingning Wang
+  - Feiyang Lv
+  - Ting Yao
+  - Weinan Gan
+  - Zhijing Wu
+  - Xiangsheng Li
+  - Haitao Li
+  - Yiqun Liu
+  - Jin Ma
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5w
+  _cache: 7ff3536421f1cc64d4c7acd45ae4f79b8eadf54d633a5101173b644334ff73df
+- id: doi:10.1145/3539618.3591761
+  title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jia Chen
+  - Qian Dong
+  - Yueyue Wu
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5x
+  _cache: f75b58a1d443fc51b3f6bf35dfe147028136de33aadc67328512570880056c1a
+- id: doi:10.1145/3583780.3614923
+  title: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Haitao Li
+  - Shuaiqiang Wang
+  - Yiqun Liu
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs2pcc
+  _cache: a4e3234e22b3f0980d2ae14397f863ebebf0dd698cc8d61f188186e0d0a1f796
+- id: doi:10.48550/arXiv.2309.17078
+  title: Unsupervised Large Language Model Alignment for Information Retrieval via
+    Contrastive Feedback
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Zhijing Wu
+  - Haitao Li
+  - Yiqun Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: SIGIR2024
+  date: '2024-07-14'
+  link: https://doi.org/gss8w3
+  _cache: 78787f712a3a97b1f4e10b53f4e55ce94e903bba8f761576439472836f6e28a5
+- id: doi:10.48550/arXiv.2403.18435
+  title: 'DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural
+    Word Alignment'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Xinyan Han
+  - Jia Chen
+  - Qian Dong
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtr6jk
+  _cache: 42c25b74a50930bdbd4b5cbb1cca71c2eef1831f0100fc3fb6c377af84a7958b
+- id: doi:10.48550/arXiv.2403.18365
+  title: 'BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific
+    Models'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jia Chen
+  - Qian Dong
+  - Zhijing Wu
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtr6jm
+  _cache: e2c6f27ecdaaef1778afab5bc9b93fa660533b2f542979a2452d79762914d481
