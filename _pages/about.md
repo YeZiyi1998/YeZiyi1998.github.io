@@ -12,44 +12,66 @@ I am now a final year Ph.D. student in [THUIR](http://www.thuir.cn/), [Departmen
 
 Education
 ======
-* [08.2016-07.2020] B.S. student, Department of Computer Science and Technology, Tsinghua University, China.
-<!-- * [11.2023-2.2023] Guest Ph.D., Department of Computer Science, University of Copenhagen, . -->
-* [08.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* [07.2023-11.2023] Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark.
-* [11.2023-02.2024] Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands.
+| Year | Education |
+| :------ | :------ | 
+| *08.2020-present* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
+| *11.2023-02.2024* | Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands. |
+| *07.2023-11.2023* | Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark. |
+| *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
 
 News
 ======
+* 9.2024, our paper titled ***Pre-trained Model for EEG-based Emotion Recognition*** won the **Best Paper Nomination** at CCIR 2024.
 * 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 07.2023, I gave an invited talk to Lenovo Inc about ***Context-based Brain Decoding***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about ***Brain-Computer Interface for Search***. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)
 
 Publications
 ======
+<!-- <h2 align='center'>2024</h2> -->
 
-* ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo. Query Augmentation with Brain Signals. (**MM 2024** full paper, Oral Acceptance Rate: 3.97%, CCF A). [Preprint Version]({https://arxiv.org/abs/2402.15708). [Code](https://github.com/YeZiyi1998/Brain-Query-Augmentation).
+| **Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System** |
+| :------ |
+| ***Ziyi Ye***, Qingyao Ai, Yiqun Liu |
+| MM 2024 BCI4MM workshop. [\[Paper\]](https://arxiv.org/abs/2402.15708) |
 
-* ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. Relevance Feedback with Brain Signals. (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback).
+| **Query Augmentation with Brain Signals** |
+| :------ |
+| ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo |
+| MM 2024 full paper, Oral Acceptance Rate: 3.97%, CCF A. [\[Paper\]](https://arxiv.org/abs/2402.15708) [\[Code\]](https://github.com/YeZiyi1998/Brain-Query-Augmentation) |
 
-* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma. Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals. (**SIGIR 2022** full paper, Acceptance Rate: 20.3%, CCF A). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf). [Dataset&Code](http://www.thuir.cn/Search_Brainwave/).
+| **Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals** | 
+| :------ | 
+| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma | 
+| SIGIR 2022 full paper, Acceptance Rate: 20.3%, CCF A. [$$ Preprint Version $$](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf) [$$ Dataset&Code $$](http://www.thuir.cn/Search_Brainwave/) | 
 
-* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. (**The Web Conf 2022** full paper, Acceptance Rate: 17.7%, CCF A). [Preprint Version](https://doi.org/10.1145/3485447.3511966). [Code](https://github.com/YeZiyi1998/UERCM).
+| **Towards a Better Understanding of Human Reading Comprehension with Brain Signals** | | :------ | 
+| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
+| The Web Conf 2022 full paper, Acceptance Rate: 17.7%, CCF A. [$$ Preprint Version $$](https://doi.org/10.1145/3485447.3511966) [$$ Code $$](https://github.com/YeZiyi1998/UERCM) | 
 
-* ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. (**MM 2022** full paper, Acceptance Rate: 27.9%, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3503161.3548258). [Code](https://github.com/YeZiyi1998/DL4EEG-Classification).
+| **Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access** | 
+| :------ | 
+| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
+| MM 2022 full paper, Acceptance Rate: 27.9%, CCF A. [$$ Preprint Version $$](https://dl.acm.org/doi/abs/10.1145/3503161.3548258) [$$ Code $$](https://github.com/YeZiyi1998/DL4EEG-Classification) | 
 
-* Zirui Zhu and ***Ziyi Ye***. Towards More Efficient Federated Learning with Better Optimization Objects. [Preprint Version](https://arxiv.org/abs/2108.08577).
+| **Relevance Feedback with Brain Signals** | 
+| :------ | 
+| ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang | 
+| TOIS, CCF A. [$$ Preprint Version $$](https://arxiv.org/abs/2312.05669) [$$ Code $$](https://github.com/THUIR/Brain-Relevance-Feedback) | 
+<!-- 
+* ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang. . (***TOIS***, CCF A). [Preprint Version](https://arxiv.org/abs/2312.05669). [Code](https://github.com/THUIR/Brain-Relevance-Feedback). -->
 
-* Xuesong Chen, ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Weihang Su, Shuqi Zhu, Yike Zhang, Xiaorong Gao, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. (**WSDM 2022** demo paper, CCF B). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3488560.3502185).
+| **A Hybrid Framework for Session Context Modeling** | 
+| :------ | 
+|  Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma | 
+| TOIS, CCF A. [$$ Preprint Version $$](https://dl.acm.org/doi/abs/10.1145/3448127) | 
 
-* Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (***TOIS***, CCF A). [Preprint Version](https://dl.acm.org/doi/abs/10.1145/3448127).
+| **Language generation from brain recordings** | 
+| :------ | 
+|  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
+| TOIS, CCF A. [$$Preprint Version$$](https://arxiv.org/abs/2311.09889). [$$Code$$](https://github.com/YeZiyi1998/Brain-language-generation) |
 
-* Jiayu Li, ***Ziyi Ye***, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. THUIR at the NTCIR-15 Micro-activity Retrieval Task. (**NCTIR 2020**). [Preprint Version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf). 
-
-* ***Ziyi Ye***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating COVID-19-Related Query Logs of Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
-
-* Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
-
-* ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo. Language generation from brain recordings. [Preprint Version](https://arxiv.org/abs/2311.09889). [Code](https://github.com/YeZiyi1998/Brain-language-generation).
+[See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
 Teaching
 ======
