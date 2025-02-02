@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a final year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, user behavior analysis, brain machine interface and etc.
+I am now a final year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, brain machine interface, large language models, and etc.
 
 Education
 ======
@@ -22,6 +22,7 @@ Education
 
 News
 ======
+* 1.2025, our paper titled ***Learning LLM-as-a-Judge from Preference Data*** is accepted by ICLR 2025.
 * 9.2024, our paper titled ***Pre-trained Model for EEG-based Emotion Recognition*** won the **Best Paper Nomination** at CCIR 2024.
 * 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 07.2023, I gave an invited talk to Lenovo Inc about ***Context-based Brain Decoding***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
@@ -30,6 +31,16 @@ News
 Publications
 ======
 <!-- <h2 align='center'>2024</h2> -->
+
+| **Generative Language Reconstruction from Brain Recordings** | 
+| :------ | 
+|  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
+| Nature Commun. Biol. Accepted in principle. [\[Paper\]](https://arxiv.org/abs/2311.09889). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
+
+| **Learning LLM-as-a-Judge from Preference Data** | 
+| :------ | 
+|  ***Ziyi Ye***, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu | 
+| ICLR 2025. [\[Paper\]](https://arxiv.org/pdf/2410.03742).|
 
 | **Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System** |
 | :------ |
@@ -65,11 +76,6 @@ Publications
 | :------ | 
 |  Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma | 
 | TOIS, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3448127) | 
-
-| **Language generation from brain recordings** | 
-| :------ | 
-|  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
-| Nature Commun. Biol. under revision. [\[Paper\]](https://arxiv.org/abs/2311.09889). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
 
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
