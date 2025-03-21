@@ -11,7 +11,7 @@ redirect_from:
 I am now a final year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, brain machine interface, large language models, and etc.
 
 I served as a reviewer and SPC/PC member for Nature Comm. Bio., ICLR, Neurips, TOIS, SIGIR, WWW, MM, CIKM, TOMM, and KDD.
-I am the CCIR Student Contact Co-Chair since 2024, please contact me if you have any questions about IR matters. 
+I am the CCIR Student Contact since 2024, please contact me if you have any questions about IR matters. 
 
 Education
 ======
