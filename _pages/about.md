@@ -25,7 +25,7 @@ Education
 
 News
 ======
-* 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge from Preference Data***.
+* 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge for Preference Alignment***.
 * 3.2025, our paper titled ***Generative Language Reconstruction from Brain Recordings*** is published in Nature Communications Biology.
 * 9.2024, our paper titled ***Pre-trained Model for EEG-based Emotion Recognition*** won the **Best Paper Nomination** at CCIR 2024.
 * 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
@@ -36,15 +36,15 @@ Publications
 ======
 <!-- <h2 align='center'>2024</h2> -->
 
-| **Generative Language Reconstruction from Brain Recordings** | 
-| :------ | 
-|  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
-| Nature Commun. Biol. [\[Paper\]](https://doi.org/10.1038/s42003-025-07731-7). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
-
 | **Learning LLM-as-a-Judge for Preference Alignment** | 
 | :------ | 
 |  ***Ziyi Ye***, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu | 
 | ICLR 2025. [\[Paper\]](https://openreview.net/forum?id=HZVIQE1MsJ).|
+
+| **Generative Language Reconstruction from Brain Recordings** | 
+| :------ | 
+|  ***Ziyi Ye***, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo | 
+| Nature Commun. Biol. [\[Paper\]](https://doi.org/10.1038/s42003-025-07731-7). [\[Code\]](https://github.com/YeZiyi1998/Brain-language-generation) |
 
 | **Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System** |
 | :------ |
