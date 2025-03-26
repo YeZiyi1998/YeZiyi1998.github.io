@@ -23,6 +23,11 @@ Education
 | *07.2023-11.2023* | Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark. |
 | *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
 
+<video width="100%" height="auto" controls>
+  <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 News
 ======
 * 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge for Preference Alignment***.
