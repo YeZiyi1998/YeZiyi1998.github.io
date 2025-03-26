@@ -98,7 +98,7 @@ Teaching
 
 Patents
 ======
-* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, Zhu Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent (granted) & US Patent (under review)**).
+* Yiqun Liu, Xuesong Chen, Xiaohui Xie, ***Ziyi Ye***, Zhu Shuqi, Weihang Su, Xiaorong Gao, Yike Sun, Min Zhang, Shaoping Ma. Method, apparatus, electronic device, and storage medium for web search. (**Chinese Patent & US Patent**).
 
 Competitions
 ======
