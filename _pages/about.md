@@ -24,13 +24,6 @@ Education
 | *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
 
 
-My PhD's Research
-======
-<video width="80%" height="auto" controls>
-  <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 News
 ======
 * 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge for Preference Alignment***.
@@ -39,6 +32,13 @@ News
 * 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 07.2023, I gave an invited talk to Lenovo Inc about ***Context-based Brain Decoding***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)
 * 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about ***Brain-Computer Interface for Search***. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)
+
+My PhD's Research
+======
+<video width="80%" height="auto" controls>
+  <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Publications
 ======
