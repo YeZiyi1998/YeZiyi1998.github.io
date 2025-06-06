@@ -26,7 +26,7 @@ Education
 
 News
 ======
-* 5.2025, our paper titled ***https://www.nature.com/articles/s41598-025-02423-y*** is available in Nature Scientific Reports.
+* 5.2025, our paper titled ***EEG reveals the cognitive impact of polarized content in short video scenarios*** is available in Nature Scientific Reports.
 * 4.2025, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.
 * 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge for Preference Alignment***.
 * 3.2025, our paper titled ***Generative Language Reconstruction from Brain Recordings*** is published in Nature Communications Biology.
