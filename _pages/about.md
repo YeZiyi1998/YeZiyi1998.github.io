@@ -45,31 +45,17 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My Ph.D.'s Research</div><video width="50%" alt="sym" height="auto">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My Ph.D.'s Research</div><video width="100%" alt="sym" height="auto">
     <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Brain Computer Interface for Search
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This dissertation explores the integration of Brain-Computer Interface (BCI) technology into information retrieval systems to enhance understanding of users’ cognitive processes, decode information needs, and model user feedback, thereby improving interaction capabilities and accuracy in search scenarios. 
+- Relevant papers are published in [\[Nature Commun. Biol.\]](https://doi.org/10.1038/s42003-025-07731-7), [\[SIGIR\]](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf), [\[Multimedia\]](https://arxiv.org/abs/2402.15708), [\[TOIS\]](https://arxiv.org/abs/2312.05669), and etc.
 </div>
 </div>
 
