@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "叶子逸（Ziyi Ye）"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Ph.D. graduate of Tsinghua University"
   location         : "Beijing, China"
   employer         :
