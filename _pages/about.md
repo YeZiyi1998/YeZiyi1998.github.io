@@ -53,7 +53,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 **Brain Computer Interface for Search**
 
-- This dissertation explores the integration of Brain-Computer Interface (BCI) technology into information retrieval systems to enhance understanding of users’ cognitive processes, decode information needs, and model user feedback, thereby improving the performance of a search system. 
+- My Ph.D.'s dissertation explores the integration of Brain-Computer Interface (BCI) technology into information retrieval systems to enhance understanding of users’ cognitive processes, decode information needs, and model user feedback, thereby improving the performance of a search system. 
 - Relevant papers are published in [Nature Commun. Biol.](https://doi.org/10.1038/s42003-025-07731-7), [SIGIR](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf), [Multimedia](https://arxiv.org/abs/2402.15708), [TOIS](https://arxiv.org/abs/2312.05669), and etc.
 </div>
 </div>
