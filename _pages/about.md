@@ -45,10 +45,10 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 # 📝 Publications
 
-<div class='paper-box'><div><div class="badge">My Ph.D.'s Research</div><video width="100%" alt="sym" height="auto">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My Ph.D.'s Research</div><video width="100%" height="auto" controls preload="metadata" poster="">
     <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
     Your browser does not support the video tag.
-  </video></div>
+  </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Brain Computer Interface for Search**
