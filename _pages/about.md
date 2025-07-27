@@ -128,7 +128,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 * 2019, Academic Excellence Scholarship, Tsinghua University.
 * 2016, **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 
-📚 Teaching Experience
+# 📚 Teaching Experience
 * 2024\. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor of "Retrieval-argumented generation".)
 * 2020-2025\. Teaching assistant at "Fundamental Search Engine", Tsinghua University.
 
