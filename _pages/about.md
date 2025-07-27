@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, brain machine interface, large language models, and etc. I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I graduated with a Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, brain machine interface, large language models, and etc. 
+<!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 I served as a reviewer and SPC/PC member for Nature Comm. Bio., ICLR, Neurips, TOIS, SIGIR, WWW, MM, CIKM, TOMM, and KDD.
 I am the CCIR Student Contact since 2024, please contact me if you have any questions about IR matters. 
