@@ -48,7 +48,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 | **[My Ph.D.'s dissertation](https://yeziyi1998.github.io/files/thesis.pdf)** |
 | :------ | 
-||
+| |
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dissertation</div><video width="100%" height="auto" controls preload="metadata" poster="">
     <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
     Your browser does not support the video tag.
