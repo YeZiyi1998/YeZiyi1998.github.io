@@ -109,8 +109,8 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
 # 🎖 Honors and Awards
-* 2025, Outstanding Graduate of Beijing, .
-* 2025, Qihang Gold Award, Tsinghua University.
+* 2025, **Outstanding Graduate of Beijing**.
+* 2025, **Qihang Gold Award**, Tsinghua University.
 * 2022, **China National Scholarship**, Chinese Government.
 * 2017, 2018, 2023, 2024\. Overall Excellence Scholarship, Tsinghua University.
 * 2019, Academic Excellence Scholarship, Tsinghua University.
