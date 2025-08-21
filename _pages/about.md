@@ -22,16 +22,6 @@ I am an Assistant Professor in Institute of Trustworthy Embodied AI at Fudan Uni
 I served as a reviewer and SPC/PC member for Nature Comm. Bio., ICLR, Neurips, TOIS, SIGIR, WWW, MM, CIKM, TOMM, and KDD.
 I am the CCIR Student Contact since 2024, please contact me if you have any questions about IR matters. 
 
-# 📖 Experience
-
-| Year | Experience |
-| :------ | :------ | 
-| *08.2025-* | Assistant Professor, Institute of Trustworthy Embodied AI, Fudan University, China. |
-| *08.2020-06.2025* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
-| *11.2023-02.2024* | Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands. |
-| *07.2023-11.2023* | Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark. |
-| *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
-
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
@@ -61,15 +51,15 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-<li> 8.2025, our paper titled ***SimVBG: Simulating Individual Values by Backstory Generation*** is accepted by EMNLP 2025.</li>
-<li> 5.2025, our paper titled ***EEG reveals the cognitive impact of polarized content in short video scenarios*** is available in Nature Scientific Reports.</li>
+<li> 8.2025, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
+<li> 5.2025, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
 <li> 4.2025, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.</li>
-<li> 4.2025, I will attend ICLR 2025 in person for our paper titled ***Learning LLM-as-a-Judge for Preference Alignment***.</li>
-<li> 3.2025, our paper titled ***Generative Language Reconstruction from Brain Recordings*** is published in Nature Communications Biology.</li>
-<li> 9.2024, our paper titled ***Pre-trained Model for EEG-based Emotion Recognition*** won the **Best Paper Nomination** at CCIR 2024.</li>
-<li> 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about ***Language Generation from Brain Recordings***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
-<li> 07.2023, I gave an invited talk to Lenovo Inc about ***Context-based Brain Decoding***. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
-<li> 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about ***Brain-Computer Interface for Search***. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)</li>
+<li> 4.2025, I will attend ICLR 2025 in person for our paper titled <b>Learning LLM-as-a-Judge for Preference Alignment</b>.</li>
+<li> 3.2025, our paper titled <b>Generative Language Reconstruction from Brain Recordings</b> is published in Nature Communications Biology.</li>
+<li> 9.2024, our paper titled <b>Pre-trained Model for EEG-based Emotion Recognition</b> won the <b>Best Paper Nomination</b> at CCIR 2024.</li>
+<li> 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about <b>Language Generation from Brain Recordings</b>. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
+<li> 07.2023, I gave an invited talk to Lenovo Inc about <b>Context-based Brain Decoding</b>. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
+<li> 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)</li>
 </ul>
 </div>
 
@@ -136,6 +126,16 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 | TOIS, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3448127) | 
 
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
+
+# 📖 Experience
+
+| Year | Experience |
+| :------ | :------ | 
+| *08.2025-* | Assistant Professor, Institute of Trustworthy Embodied AI, Fudan University, China. |
+| *08.2020-06.2025* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
+| *11.2023-02.2024* | Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands. |
+| *07.2023-11.2023* | Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark. |
+| *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
 
 # 🎖 Honors and Awards
 * 2025, **Outstanding Graduate of Beijing**.
