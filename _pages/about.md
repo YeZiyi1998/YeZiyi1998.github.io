@@ -57,9 +57,10 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 <li> 4.2025, I will attend ICLR 2025 in person for our paper titled <b>Learning LLM-as-a-Judge for Preference Alignment</b>.</li>
 <li> 3.2025, our paper titled <b>Generative Language Reconstruction from Brain Recordings</b> is published in Nature Communications Biology.</li>
 <li> 9.2024, our paper titled <b>Pre-trained Model for EEG-based Emotion Recognition</b> won the <b>Best Paper Nomination</b> at CCIR 2024.</li>
-<li> 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about <b>Language Generation from Brain Recordings</b>. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
-<li> 07.2023, I gave an invited talk to Lenovo Inc about <b>Context-based Brain Decoding</b>. [Slide](https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf)</li>
-<li> 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. [Slide](https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf)</li>
+<li> 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about <b>Language Generation from Brain Recordings</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a></li>
+<li> 07.2023, I gave an invited talk to Lenovo Inc about <b>Context-based Brain Decoding</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a>
+</li>
+<li> 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. <a href="https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf" target="_blank">Slide</a></li>
 </ul>
 </div>
 
