@@ -14,6 +14,27 @@ redirect_from:
     clear: both;
   }
 
+  .media-container {
+    float: left; /* 让整个容器向左浮动 */
+    position: relative; /* 这是为了让 conference-label 能正确定位 */
+    width: 100%; /* 在移动端默认占满宽度 */
+  }
+
+  .media-container img,
+  .media-container video {
+    width: 100%;
+    aspect-ratio: 2/1;
+    object-fit: cover;
+    margin: 10px 20px 10px 0px; /* 调整右边距以留出空间 */
+    
+    /* 美化效果保持不变 */
+    border-radius: 8px;
+    border: 2px solid #ddd;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    background-color: #fff;
+  }
+
   /* 全局文本颜色 */
   body {
     color: #333; /* 主要文本颜色 */
@@ -62,43 +83,10 @@ redirect_from:
     transition: background-color 0.2s ease;
   }
 
-  dl dt img {
-    width: 100%; /* 在移动端默认占满宽度 */
-    aspect-ratio: 2/1; /* 设置宽高比为2:1，即高度为宽度的一半 */
-    object-fit: cover; /* 确保图片不会被裁剪 */
-    display: block;
-    margin: 10px 10px 10px 0px; /* 适当的间距 */
-    
-    /* 添加美化效果 */
-    border-radius: 8px; /* 让图片有轻微的圆角 */
-    border: 2px solid #ddd; /* 添加淡灰色的边框 */
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
-    padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
-    background-color: #fff; /* 设置背景色，让图片更加干净 */
-  }
-
-  dl dt video {
-    width: 100%; /* 在移动端默认占满宽度 */
-    aspect-ratio: 2/1; /* 设置宽高比为2:1，即高度为宽度的一半 */
-    object-fit: cover; /* 确保图片不会被裁剪 */
-    display: block;
-    margin: 10px 10px 10px 0px; /* 适当的间距 */
-    
-    /* 添加美化效果 */
-    border-radius: 8px; /* 让图片有轻微的圆角 */
-    border: 2px solid #ddd; /* 添加淡灰色的边框 */
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
-    padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
-    background-color: #fff; /* 设置背景色，让图片更加干净 */
-  }
-
   /* 在桌面端（宽度大于768px）时固定宽度 */
   @media screen and (min-width: 768px) {
-    dl dt img {
-      width: 350px;
-    }
-    dl dt video {
-      width: 350px;
+    .media-container {
+      width: 350px; /* 在桌面端给容器一个固定宽度 */
     }
   }
 
@@ -383,16 +371,30 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 <hr>
 
 <dl>
+  <dt>
+    <div class="media-container">
+      <video controls preload="metadata" poster="">
+        <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <span class="conference-label">Dissertation</span>
+    </div>
+  </dt>
+
+  <dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
+  <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
+</dl>
+
+<!-- <dl>
   <dt><video align="left"  width="100"
-  hspace="10" wspace="20" src="https://yeziyi1998.github.io/files/output.mp4">
-    <!-- <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4"> -->
-    <!-- Your browser does not support the video tag. -->
+  hspace="10" wspace="20" controls preload="metadata" poster="" src="https://yeziyi1998.github.io/files/output.mp4">
+    <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
   </video>
 <span class="conference-label">Dissertation</span>
 </dt>
 <dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
 <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
-</dl>
+</dl> -->
 
 <hr>
 
