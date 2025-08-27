@@ -384,9 +384,9 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 <dl>
   <dt><video align="left"  width="100"
-  hspace="10" wspace="20" controls preload="metadata" poster="">
-    <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+  hspace="10" wspace="20" controls preload="metadata" poster="" src="https://yeziyi1998.github.io/files/output.mp4">
+    <!-- <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4"> -->
+    <!-- Your browser does not support the video tag. -->
   </video>
 <span class="conference-label">Dissertation</span>
 </dt>
@@ -415,6 +415,8 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
   <dd><a href="https://doi.org/10.1038/s42003-025-07731-7"><strong>Generative Language Reconstruction from Brain Recordings</strong></a></dd>
 <dd><strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
 </dl> 
+
+<hr>
 
 <!-- | **Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System** |
 | :------ |
