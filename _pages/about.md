@@ -354,7 +354,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 <dl>
   <dt>
     <div class="media-container">
-      <img src="../images/SIGIR25zhu.png">
+      <img src="../images/SIGIR25zhu.png" wspace=20 hspace=10>
       <span class="conference-label">SIGIR 2025</span>
     </div>
   </dt>
@@ -381,7 +381,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
   <dt>
     <div class="media-container">
       <img src="../images/survey2025li.png">
-      <span class="conference-label">SIGIR 2025</span>
+      <span class="conference-label">Arxiv 2025</span>
     </div>
   </dt>
   <dd><a href="https://arxiv.org/pdf/2412.05579?"><strong>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</strong></a></dd>
@@ -428,7 +428,7 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
     </div>
   </dt>
   <dd><a href="https://doi.org/10.1038/s42003-025-07731-7"><strong>Generative Language Reconstruction from Brain Recordings</strong></a></dd>
-  <dd>strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
+  <dd><strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
 </dl>
 
 <hr>
