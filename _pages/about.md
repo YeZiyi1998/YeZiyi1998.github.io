@@ -18,6 +18,8 @@ redirect_from:
     float: left; /* 让整个容器向左浮动 */
     position: relative; /* 这是为了让 conference-label 能正确定位 */
     width: 100%; /* 在移动端默认占满宽度 */
+    hspace: 10;
+    wspace: 20
   }
 
   .media-container img,
@@ -348,24 +350,42 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 </div>
 </div> -->
 
+
 <dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/SIGIR25zhu.png">
-<span class="conference-label">SIGIR 2025</span>
-</dt>
-<dd><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729909"><strong>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</strong></a></dd>
-<dd>Shuqi Zhu, <strong>Ziyi Ye</strong>, Yi Zhong, Qingyao Ai, Yujia Zhou, Yiqun Liu</dd>
+  <dt>
+    <div class="media-container">
+      <img src="../images/SIGIR25zhu.png">
+      <span class="conference-label">SIGIR 2025</span>
+    </div>
+  </dt>
+  <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729909"><strong>Brain Image Reconstruction with Retrieval-Augmented Diffusion</strong></a></dd>
+  <dd>Shuqi Zhu, <strong>Ziyi Ye</strong>, Yi Zhong, Qingyao Ai, Yujia Zhou, Yiqun Liu</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/survey2025li.png">
-<span class="conference-label">Arxiv 2025</span>
-</dt>
-<dd><a href="https://arxiv.org/pdf/2412.05579?"><strong>Brain Image Reconstruction with Retrieval-Augmented Diffusion</strong></a></dd>
-<dd>Haitao Li, Qian Dong, Junjie Chen, Huixue Su, Yujia Zhou, Qingyao Ai, <strong>Ziyi Ye</strong>, Yiqun Liu</dd>
+  <dt>
+    <div class="media-container">
+      <img src="../images/SIGIR2025su.png">
+      <span class="conference-label">SIGIR 2025</span>
+    </div>
+  </dt>
+  <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729957"><strong>Parametric Retrieval Augmented Generation</strong></a></dd>
+  <dd>Weihang Su, Yichen Tang, Qingyao Ai, Junxi Yan, Changyue Wang, Hongning Wang, <strong>Ziyi Ye</strong>, Yujia Zhou, Yiqun Liu</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt>
+    <div class="media-container">
+      <img src="../images/survey2025li.png">
+      <span class="conference-label">SIGIR 2025</span>
+    </div>
+  </dt>
+  <dd><a href="https://arxiv.org/pdf/2412.05579?"><strong>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</strong></a></dd>
+  <dd>Haitao Li, Qian Dong, Junjie Chen, Huixue Su, Yujia Zhou, Qingyao Ai, <strong>Ziyi Ye</strong>, Yiqun Liu</dd>
 </dl>
 
 <hr>
@@ -385,75 +405,33 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
   <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
 </dl>
 
-<!-- <dl>
-  <dt><video align="left"  width="100"
-  hspace="10" wspace="20" controls preload="metadata" poster="" src="https://yeziyi1998.github.io/files/output.mp4">
-    <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
-  </video>
-<span class="conference-label">Dissertation</span>
-</dt>
-<dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
-<dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
-</dl> -->
-
 <hr>
 
 <dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/ICLR2025.png">
-<span class="conference-label">ICLR 2025</span>
-</dt>
+  <dt>
+    <div class="media-container">
+      <img src="../images/ICLR2025.png">
+      <span class="conference-label">SIGIR 2025</span>
+    </div>
+  </dt>
   <dd><a href="https://openreview.net/forum?id=HZVIQE1MsJ"><strong>Learning LLM-as-a-Judge for Preference Alignment</strong></a></dd>
-<dd><strong>Ziyi Ye</strong>, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu</dd>
+  <dd><strong>Ziyi Ye</strong>, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/NCB2025.png">
-<span class="conference-label">Nature Communications Biology</span>
-</dt>
+  <dt>
+    <div class="media-container">
+      <img src="../images/NCB2025.png">
+      <span class="conference-label">Nature Communications Biology</span>
+    </div>
+  </dt>
   <dd><a href="https://doi.org/10.1038/s42003-025-07731-7"><strong>Generative Language Reconstruction from Brain Recordings</strong></a></dd>
-<dd><strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
-</dl> 
+  <dd>strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
+</dl>
 
 <hr>
-
-<!-- | **Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation Information System** |
-| :------ |
-| ***Ziyi Ye***, Qingyao Ai, Yiqun Liu |
-| MM 2024 BCI4MM workshop. [\[Paper\]](https://arxiv.org/abs/2402.15708) | -->
-
-<!-- | **Query Augmentation with Brain Signals** |
-| :------ |
-| ***Ziyi Ye***, Jingtao Zhan, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Christina Lioma, and Tuukka Ruotsalo |
-| MM 2024 full paper, Oral Acceptance Rate: 3.97%, CCF A. [\[Paper\]](https://arxiv.org/abs/2402.15708) [\[Code\]](https://github.com/YeZiyi1998/Brain-Query-Augmentation) | -->
-
-<!-- | **Relevance Feedback with Brain Signals** | 
-| :------ | 
-| ***Ziyi Ye***, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, and Min Zhang | 
-| TOIS, CCF A. [\[Paper\]](https://arxiv.org/abs/2312.05669) [\[Code\]](https://github.com/THUIR/Brain-Relevance-Feedback) | 
-
-| **Why Don't You Click: Understanding Human Reading Comprehension with Brain Signals** | 
-| :------ | 
-| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| SIGIR 2022 full paper, Acceptance Rate: 20.3%, CCF A. [\[Paper\]](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf) [\[Code & Dataset\]](http://www.thuir.cn/Search_Brainwave/) | 
-
-| **Towards a Better Understanding of Human Reading Comprehension with Brain Signals** | 
-| :------ | 
-| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| The Web Conf 2022 full paper, Acceptance Rate: 17.7%, CCF A. [\[Paper\]](https://doi.org/10.1145/3485447.3511966) [\[Code\]](https://github.com/YeZiyi1998/UERCM) |  -->
-
-<!-- | **Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access** | 
-| :------ | 
-| ***Ziyi Ye***, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, and Shaoping Ma | 
-| MM 2022 full paper, Acceptance Rate: 27.9%, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548258) [\[Code\]](https://github.com/YeZiyi1998/DL4EEG-Classification) |  -->
-
-<!-- | **A Hybrid Framework for Session Context Modeling** | 
-| :------ | 
-|  Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma | 
-| TOIS, CCF A. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3448127) |  -->
 
 [See my full publication list.](https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN)
 
