@@ -297,14 +297,13 @@ My current research focuses on <strong>Embodied AI</strong>, my primary areas of
     <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for humans to collaborate and communicate with autonomous agents.</li>
     <li><strong>Autonomous Evolution & Lifelong Learning:</strong> Investigating mechanisms that enable agents to continuously learn from experience, adapt to new environments, and evolve their capabilities.</li>
 </ul>
-<p style="color: red;">
-    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI, please feel free to reach out.
-</p>
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 I served as a reviewer and SPC/PC member for Nature Comm. Bio., ICLR, Neurips, TOIS, SIGIR, WWW, MM, CIKM, TOMM, and KDD.
 I am the CCIR Student Contact since 2024, please contact me if you have any questions about IR matters. 
-
+<p style="color: red;">
+    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI, please feel free to reach out.
+</p>
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
@@ -391,15 +390,15 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
   </video>
 <span class="conference-label">Dissertation</span>
 </dt>
-  <dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
-<dd> The integration of Brain-Computer Interface (BCI) technology into information retrieval systems can enhance understanding of users’ cognitive processes, decode information needs, and model user feedback, thereby improving the performance of a search system. </dd>
+<dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
 <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img style="float: left; width: 250px; margin-right: 20px;" src="../images/ICLR2025.png">
+  <dt><img align="left"  width="100"
+  hspace="10" wspace="20" src="../images/ICLR2025.png">
 <span class="conference-label">ICLR 2025</span>
 </dt>
   <dd><a href="https://openreview.net/forum?id=HZVIQE1MsJ"><strong>Learning LLM-as-a-Judge for Preference Alignment</strong></a></dd>
@@ -409,7 +408,8 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 <hr>
 
 <dl>
-  <dt><img style="float: left; width: 250px; margin-right: 20px;" src="../images/NCB2025.png">
+  <dt><img align="left"  width="100"
+  hspace="10" wspace="20" src="../images/NCB2025.png">
 <span class="conference-label">Nature Communications Biology</span>
 </dt>
   <dd><a href="https://doi.org/10.1038/s42003-025-07731-7"><strong>Generative Language Reconstruction from Brain Recordings</strong></a></dd>
