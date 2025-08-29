@@ -281,11 +281,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, large language models, and embodied AI. 
-My current research focuses on <strong>Embodied AI</strong>, my primary areas of interest include:
+My current research focuses on <strong>Large Language Models</strong> and <strong>Embodied AI</strong>, my primary areas of interest include:
 <ul>
-    <li><strong>Multimodal Large Models for Embodiment:</strong> Developing foundational models that can understand and integrate diverse sensory inputs (vision, language, touch, etc.) to perform complex tasks.</li>
+    <li><strong>Multimodal Large Models:</strong> Developing foundational models that can understand and integrate diverse sensory inputs (vision, language, touch, human signals, etc.) to perform complex tasks.</li>
     <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for humans to collaborate and communicate with autonomous agents.</li>
-    <li><strong>Autonomous Evolution & Lifelong Learning:</strong> Investigating mechanisms that enable agents to continuously learn from experience, adapt to new environments, and evolve their capabilities.</li>
+    <li><strong>Cognition and Evolution of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
 </ul>
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
