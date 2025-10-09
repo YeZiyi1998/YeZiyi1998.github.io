@@ -338,19 +338,6 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 
 # 📝 Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dissertation</div><video width="100%" height="auto" controls preload="metadata" poster="">
-    <source src="https://yeziyi1998.github.io/files/output.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video></div></div>
-<div class='paper-box-text' markdown="1">
-
-- My Ph.D.'s dissertation: [Brain Computer Interface for Information Retrieval](https://yeziyi1998.github.io/files/thesis.pdf).
-- The integration of Brain-Computer Interface (BCI) technology into information retrieval systems can enhance understanding of users’ cognitive processes, decode information needs, and model user feedback, thereby improving the performance of a search system. 
-- Relevant papers are published in [Nature Commun. Biol.](https://doi.org/10.1038/s42003-025-07731-7), [SIGIR](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf), [Multimedia](https://arxiv.org/abs/2402.15708), [TOIS](https://arxiv.org/abs/2312.05669), and etc.
-</div>
-</div> -->
-
-
 <dl>
   <dt>
     <div class="media-container">
@@ -464,6 +451,11 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 * We won the 1st place in the NTCIR-15 Micro-activity Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf).
 
 # 📊 Datasets
+
+* [EEG-Imagenet Dataset](https://arxiv.org/pdf/2406.07151). In our Paper *EEG-imagenet: An electroencephalogram dataset and benchmarks with image visual stimuli of multi-granularity labels*.
+
+* [EEG-SVC Dataset](https://dl.acm.org/doi/pdf/10.1145/3626772.3657890). In our SIGIR'25 Full paper *EEG-svrec: An eeg dataset with user multidimensional affective engagement labels in short video recommendation*.
+
 * [Search-Brainwave Dataset](http://www.thuir.cn/Search_Brainwave/). In our SIGIR'22 Full Paper *Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals*.
 
 * [UERCM Dataset](https://cloud.tsinghua.edu.cn/d/4ede7ce124cc46f3b42e/?p=%2Fdataset&mode=list). In our The Web Conf’22 Full Paper *Towards a Better Understanding of Human Reading Comprehension with Brain Signals*.
