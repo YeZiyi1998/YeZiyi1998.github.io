@@ -446,6 +446,8 @@ I am the CCIR Student Contact since 2024, please contact me if you have any ques
 | *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
 
 # 🎖 Honors and Awards
+* 2025, **Ph.D. Dissertation Award of ACM Shanghai**.
+* 2025, **Ph.D. Dissertation Award of CIPS**.
 * 2025, **Outstanding Graduate of Beijing**.
 * 2025, **Qihang Gold Award**, Tsinghua University.
 * 2022, **China National Scholarship**, Chinese Government.
