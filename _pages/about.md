@@ -19,6 +19,7 @@ redirect_from:
     position: relative; /* 这是为了让 conference-label 能正确定位 */
     width: 100%; /* 在移动端默认占满宽度 */
     hspace: 10;
+    margin-right: 30px;
     wspace: 20
   }
 
