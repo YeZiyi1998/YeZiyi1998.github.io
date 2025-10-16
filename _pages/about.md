@@ -403,7 +403,7 @@ My goal is to build an intelligent system that can understand human needs, perfo
   <dt>
     <div class="media-container">
       <img src="../images/ICLR2025.png">
-      <span class="conference-label">SIGIR 2025</span>
+      <span class="conference-label">ICLR 2025</span>
     </div>
   </dt>
   <dd><a href="https://openreview.net/forum?id=HZVIQE1MsJ"><strong>Learning LLM-as-a-Judge for Preference Alignment</strong></a></dd>
