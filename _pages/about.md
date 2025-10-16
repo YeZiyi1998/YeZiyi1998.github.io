@@ -290,8 +290,10 @@ My major research interests are about multimodel computing, Web search, large la
     <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for autonomous agents to collaborate and communicate with human.</li>
     <li><strong>Cognition of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
 </ul>
-<p style="color: blue;">
+<p>
+<strong>
 My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
+</strong>
 </p>
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 <p style="color: red;">
