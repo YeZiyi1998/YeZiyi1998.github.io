@@ -280,13 +280,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Web search, large language models, and embodied AI. 
-My current research focuses on <strong>Large Language Models</strong> and <strong>Embodied AI</strong>, my primary areas of interest include:
+I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about multimodel computing, Web search, large language models, and embodied AI. My primary areas of interest include:
 <ul>
-    <li><strong>Multimodal Large Models:</strong> Developing foundational models that can understand and integrate diverse sensory inputs (vision, language, touch, human signals, etc.) to perform complex tasks.</li>
-    <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for humans to collaborate and communicate with autonomous agents.</li>
-    <li><strong>Cognition and Evolution of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
+    <li><strong>Multimodal Computing:</strong> Developing models that can understand and integrate diverse sensory inputs (vision, language, touch, human signals, etc.) to perform complex, human-like tasks.</li>
+    <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for autonomous agents to collaborate and communicate with human.</li>
+    <li><strong>Cognition of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
 </ul>
+My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 I served as a reviewer and SPC/PC member for Nature Comm. Bio., ICLR, Neurips, TOIS, SIGIR, WWW, MM, CIKM, TOMM, and KDD.
