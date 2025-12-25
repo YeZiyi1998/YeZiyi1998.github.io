@@ -328,16 +328,16 @@ My goal is to build an intelligent system that can understand human needs, perfo
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-<li> 8.2025, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
-<li> 5.2025, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
-<li> 4.2025, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.</li>
-<li> 4.2025, I will attend ICLR 2025 in person for our paper titled <b>Learning LLM-as-a-Judge for Preference Alignment</b>.</li>
-<li> 3.2025, our paper titled <b>Generative Language Reconstruction from Brain Recordings</b> is published in Nature Communications Biology.</li>
-<li> 9.2024, our paper titled <b>Pre-trained Model for EEG-based Emotion Recognition</b> won the <b>Best Paper Nomination</b> at CCIR 2024.</li>
-<li> 12.2023, I gave an invited talk in the Institute of Information in University of Amsterdam about <b>Language Generation from Brain Recordings</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a></li>
-<li> 07.2023, I gave an invited talk to Lenovo Inc about <b>Context-based Brain Decoding</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a>
+<li> 2025.08, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
+<li> 2025.05, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
+<li> 2025.04, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.</li>
+<li> 2025.04, I will attend ICLR 2025 in person for our paper titled <b>Learning LLM-as-a-Judge for Preference Alignment</b>.</li>
+<li> 2025.03, our paper titled <b>Generative Language Reconstruction from Brain Recordings</b> is published in Nature Communications Biology.</li>
+<li> 2024.09, our paper titled <b>Pre-trained Model for EEG-based Emotion Recognition</b> won the <b>Best Paper Nomination</b> at CCIR 2024.</li>
+<li> 2023.12, I gave an invited talk in the Institute of Information in University of Amsterdam about <b>Language Generation from Brain Recordings</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a></li>
+<li> 2023.07, I gave an invited talk to Lenovo Inc about <b>Context-based Brain Decoding</b>. <a href="https://yeziyi1998.github.io/files/Language_Generation_from_Brain_Recordings_240312.pdf" target="_blank">Slide</a>
 </li>
-<li> 09.2023, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. <a href="https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf" target="_blank">Slide</a></li>
+<li> 2023.09, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. <a href="https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf" target="_blank">Slide</a></li>
 </ul>
 </div>
 
