@@ -435,16 +435,14 @@ My goal is to build an intelligent system that can understand human needs, perfo
 | *11.2023-02.2024* | Guest Ph.D. student, Institute of Informatics, University of Amsterdam, Netherlands. |
 | *07.2023-11.2023* | Guest Ph.D. student, Department of Computer Science (DIKU) and the Pioneer Centre for AI, University of Copenhagen, Denmark. |
 | *08.2016-07.2020* | B.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
+
 # 📝 Academic Service
+- **Journal Reviewer:** *Nature*, *Nature Comm. Bio.*, *Nature Dis. Com.*, *ACM TOIS*, *ACM TKDD*, *ACM TOMM*, *SCIS*
 
-**Journal Reviewer:**  
-- *Nature*, *Nature Comm. Bio.*, *Nature Dis. Com.*, *ACM TOIS*, *ACM TKDD*, *ACM TOMM*, *SCIS*
+- **Conference Senior PC / PC Member:** *ICLR*, *NeurIPS*, *ICML*, *SIGIR*, *WWW*, *ACM MM*, *CVPR*, *CIKM*, *KDD*, *ACL*, *EMNLP*
 
-**Conference Senior PC / PC Member:**  
-- *ICLR*, *NeurIPS*, *ICML*, *SIGIR*, *WWW*, *ACM MM*, *CVPR*, *CIKM*, *KDD*, *ACL*, *EMNLP*
-
-**Other Service:**  
-- *CCIR Student Contact* (2024.8–2025.8)
+ 
+-**Other Service:** *CCIR Student Contact* (2024.8–2025.8)
 
 # 🎖 Honors and Awards
 * 2025, **Ph.D. Dissertation Award of ACM Shanghai**.
