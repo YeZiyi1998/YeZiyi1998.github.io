@@ -327,6 +327,9 @@ My goal is to build an intelligent system that can understand human needs, perfo
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li> 2026.01, our paper titled <b>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</b> is accepted by ICRA 2026.</li>
+<li> 2026.01, our paper titled <b>SLEEP2VEC: Unified Cross-modal Alignment
+for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <li> 2025.08, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
 <li> 2025.05, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
 <li> 2025.04, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.</li>
@@ -341,6 +344,45 @@ My goal is to build an intelligent system that can understand human needs, perfo
 </div>
 
 # 📝 Publications
+
+<dl>
+  <dt>
+    <div class="media-container">
+      <img src="../images/ICRA26Liu.png" wspace=20 hspace=10>
+      <span class="conference-label">ICRA 2026</span>
+    </div>
+  </dt>
+  <dd><a href=""><strong>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</strong></a></dd>
+  <dd>Yichang Liu, Tianyu Wang, <strong>Ziyi Ye</strong>, Yawei Li, Yanwei Fu, Yu-gang Jiang, Shouyan Wang</dd>
+</dl>
+
+
+<dl>
+  <dt>
+    <div class="media-container">
+      <img src="../images/ICLR26jin.png" wspace=20 hspace=10>
+      <span class="conference-label">SIGIR 2025</span>
+    </div>
+  </dt>
+  <dd><a href="https://openreview.net/pdf?id=DDXhRN66eV"><strong>SLEEP2VEC: Unified Cross-modal Alignment
+for Heterogeneous Nocturnal Biosignals</strong></a></dd>
+  <dd>Weixuan Yuan, Zengrui Jin, Yichen Wang, Donglin Xie, <strong>Ziyi Ye</strong>, Chao Zhang, Xuesong Chen</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt>
+    <div class="media-container">
+      <img src="../images/EMNLP25du.png" wspace=20 hspace=10>
+      <span class="conference-label">EMNLP 2025</span>
+    </div>
+  </dt>
+  <dd><a href="https://aclanthology.org/2025.emnlp-main.662.pdf"><strong>SimVBG: Simulating Individual Values by Backstory Generation</strong></a></dd>
+  <dd>Bangde Du, <strong>Ziyi Ye</strong>, Zhijing Wu, Monika Jankowska, Shuqi Zhu, Qingyao Ai, Yujia Zhou, Yiqun Liu</dd>
+</dl>
+
+<hr>
 
 <dl>
   <dt>
@@ -368,7 +410,7 @@ My goal is to build an intelligent system that can understand human needs, perfo
 
 <hr>
 
-<dl>
+<!-- <dl>
   <dt>
     <div class="media-container">
       <img src="../images/survey2025li.png">
@@ -377,7 +419,7 @@ My goal is to build an intelligent system that can understand human needs, perfo
   </dt>
   <dd><a href="https://arxiv.org/pdf/2412.05579?"><strong>LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods</strong></a></dd>
   <dd>Haitao Li, Qian Dong, Junjie Chen, Huixue Su, Yujia Zhou, Qingyao Ai, <strong>Ziyi Ye</strong>, Yiqun Liu</dd>
-</dl>
+</dl> -->
 
 <hr>
 
@@ -392,7 +434,7 @@ My goal is to build an intelligent system that can understand human needs, perfo
     </div>
   </dt>
 
-  <dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
+<dd>My Ph.D.'s dissertation: <a href="https://yeziyi1998.github.io/files/thesis.pdf"><strong>Brain Computer Interface for Information Retrieval</strong></a></dd>
   <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
 </dl>
 
