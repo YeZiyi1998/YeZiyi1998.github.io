@@ -296,7 +296,7 @@ My goal is to build an intelligent system that can understand human needs, perfo
 </p>
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 <p style="color: red;">
-    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI, please feel free to reach out.
+    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托[复旦大学可信具身智能研究院](https://teai.fudan.edu.cn/)和[复旦大学视觉与学习实验室](https://fvl.fudan.edu.cn/)，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通。
 </p>
 
 # 🔥 News
@@ -348,7 +348,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <dl>
   <dt>
     <div class="media-container">
-      <img src="../images/ICRA26Liu.png" wspace=20 hspace=10>
+      <img src="../images/ICRA2026Liu.png" wspace=20 hspace=10>
       <span class="conference-label">ICRA 2026</span>
     </div>
   </dt>
@@ -360,8 +360,8 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <dl>
   <dt>
     <div class="media-container">
-      <img src="../images/ICLR26jin.png" wspace=20 hspace=10>
-      <span class="conference-label">SIGIR 2025</span>
+      <img src="../images/ICLR2026jin.png" wspace=20 hspace=10>
+      <span class="conference-label">ICLR 2026</span>
     </div>
   </dt>
   <dd><a href="https://openreview.net/pdf?id=DDXhRN66eV"><strong>SLEEP2VEC: Unified Cross-modal Alignment
