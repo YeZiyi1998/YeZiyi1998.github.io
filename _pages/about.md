@@ -283,17 +283,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
 
-My major research interests are about multimodel computing, Web search, large language models, and embodied AI. My primary areas of interest include:
+My major research interests are about multimodel computing, Web search, large language models, and embodied AI. <strong>My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
+</strong> My primary areas of interest include:
 <ul>
     <li><strong>Multimodal Computing:</strong> Developing models that can understand and integrate diverse sensory inputs (vision, language, touch, human signals, etc.) to perform complex, human-like tasks.</li>
     <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for autonomous agents to collaborate and communicate with human.</li>
     <li><strong>Cognition of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
 </ul>
-<p>
-<strong>
-My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
-</strong>
-</p>
+
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 <p style="color: red;">
     I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank">复旦大学视觉与学习实验室</a>，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通。
@@ -348,7 +345,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <dl>
   <dt>
     <div class="media-container">
-      <img src="../images/ICRA2026Liu.png" wspace=20 hspace=10>
+      <img src="../images/ICRA2026liu.png" wspace=20 hspace=10>
       <span class="conference-label">ICRA 2026</span>
     </div>
   </dt>
