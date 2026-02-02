@@ -281,7 +281,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
+I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/) and a member of [Fudan Vision and Learning Lab(FVL)](https://fvl.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China.
 
 My major research interests are about multimodel computing, Web search, large language models, and embodied AI. <strong>My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
 </strong> My primary areas of interest include:
@@ -329,6 +329,9 @@ My major research interests are about multimodel computing, Web search, large la
 <li> 2026.01, our paper titled <b>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</b> is accepted by ICRA 2026.</li>
 <li> 2026.01, our paper titled <b>SLEEP2VEC: Unified Cross-modal Alignment
 for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
+<li> 2025.10, I was invited to join the discussion about world model at CCF YOCSEF. <a href="https://www.ccf.org.cn/YOCSEF/News/2025-10-12/849421.shtml" target="_blank">News</a></li>
+<li> 2025.10, I gave an invited talk about AI System Empowered by Neuro Feedback at Computational Neuro-Linguistics Forum.<a href="https://xufengduan.github.io/Computational-Neurolinguistics-Forum/events/2025-10-Ye-Zianyi/">Video</a></li>
+<li> 2025.08, I gave an invited talk about "Tips for Research" at NLPCC 2025. <a href="https://yeziyi1998.github.io/files/NLPCC 2025 Ye.en.talk.pdf" target="_blank">Slides</a></li>
 <li> 2025.08, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
 <li> 2025.05, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
 <li> 2025.04, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025, titled <b>Brain Image Reconstruction with Retrieval-Augmented Diffusion</b>, <b>Parametric Retrieval Augmented Generation</b>, and <b>Understanding the Effect of Opinion Polarization in Short Video Browsing</b>.</li>
