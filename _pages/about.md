@@ -281,7 +281,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University](https://teai.fudan.edu.cn/) and a member of [Fudan Vision and Learning Lab(FVL)](https://fvl.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China.
+I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University（复旦大学可信具身智能研究院）](https://teai.fudan.edu.cn/) and a member of [Fudan Vision and Learning Lab（复旦大学视觉与学习实验室，FVL）](https://fvl.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China.
 
 My major research interests are about multimodel computing, Web search, large language models, and embodied AI. <strong>My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
 </strong> My primary areas of interest include:
