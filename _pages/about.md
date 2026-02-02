@@ -41,6 +41,7 @@ redirect_from:
   /* 全局文本颜色 */
   body {
     color: #333; /* 主要文本颜色 */
+    font-size: 1.05em; /* 略微放大整体字体 */
     background-image: url('../images/bg.jpg'); /* 背景图片 */
     background-size: cover;
     background-position: center;
@@ -115,7 +116,16 @@ redirect_from:
 
   /* 只放大论文标题（在链接里的 strong），不影响作者名字 */
   dl dd a strong {
-    font-size: 1.15em;
+    font-size: 2.15em;
+  }
+
+  /* 论文标题虽然有超链接，但不显示下划线 */
+  dl dd a {
+    text-decoration: none;
+  }
+
+  dl dd a:hover {
+    text-decoration: none;
   }
 
   .co-first {
@@ -300,7 +310,7 @@ My major research interests are about multimodel computing, Web search, large la
 
 
 <p style="color: red;"><b>
-    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学视觉与学习实验室</a>，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通。
+    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学视觉与学习实验室</a>，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通（邮箱：zyye@fudan.edu.cn）。
 </b></p>
 
 # 🔥 News
@@ -362,6 +372,8 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   <dd><a href="https://ziyiye.cn/files/ICRA26_3090_MS.pdf"><strong>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</strong></a></dd>
   <dd>Yichang Liu, Tianyu Wang, <strong>Ziyi Ye</strong>, Yawei Li, Yanwei Fu, Yu-gang Jiang, Shouyan Wang</dd>
 </dl>
+
+<hr>
 
 <dl>
   <dt>
