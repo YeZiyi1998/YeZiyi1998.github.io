@@ -349,10 +349,9 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
       <span class="conference-label">ICRA 2026</span>
     </div>
   </dt>
-  <dd><a href=""><strong>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</strong></a></dd>
+  <dd><a href="https://ziyiye.cn/files/ICRA26_3090_MS.pdf"><strong>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</strong></a></dd>
   <dd>Yichang Liu, Tianyu Wang, <strong>Ziyi Ye</strong>, Yawei Li, Yanwei Fu, Yu-gang Jiang, Shouyan Wang</dd>
 </dl>
-
 
 <dl>
   <dt>
