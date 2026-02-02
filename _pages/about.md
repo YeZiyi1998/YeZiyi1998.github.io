@@ -292,9 +292,11 @@ My major research interests are about multimodel computing, Web search, large la
 </ul>
 
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
-<p style="color: red;">
+
+
+<p style="color: red;"><b>
     I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学视觉与学习实验室</a>，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通。
-</p>
+</b></p>
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
@@ -329,7 +331,7 @@ My major research interests are about multimodel computing, Web search, large la
 for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <li> 2025.08, our paper titled <b>SimVBG: Simulating Individual Values by Backstory Generation</b> is accepted by EMNLP 2025.</li>
 <li> 2025.05, our paper titled <b>EEG reveals the cognitive impact of polarized content in short video scenarios</b> is available in Nature Scientific Reports.</li>
-<li> 2025.04, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025.</li>
+<li> 2025.04, thrilled to announce that I have three co-authered paper accepted by SIGIR 2025, titled <b>Brain Image Reconstruction with Retrieval-Augmented Diffusion</b>, <b>Parametric Retrieval Augmented Generation</b>, and <b>Understanding the Effect of Opinion Polarization in Short Video Browsing</b>.</li>
 <li> 2025.04, I will attend ICLR 2025 in person for our paper titled <b>Learning LLM-as-a-Judge for Preference Alignment</b>.</li>
 <li> 2025.03, our paper titled <b>Generative Language Reconstruction from Brain Recordings</b> is published in Nature Communications Biology.</li>
 <li> 2024.09, our paper titled <b>Pre-trained Model for EEG-based Emotion Recognition</b> won the <b>Best Paper Nomination</b> at CCIR 2024.</li>
