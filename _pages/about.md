@@ -380,7 +380,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 
 <hr>
 
-<dl>
+<!-- <dl>
   <dt>
     <div class="media-container">
       <img src="../images/ICLR2026jin.png" wspace=20 hspace=10>
@@ -390,7 +390,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   <dd><a href="https://openreview.net/pdf?id=DDXhRN66eV"><strong>SLEEP2VEC: Unified Cross-modal Alignment
 for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   <dd>Weixuan Yuan, Zengrui Jin, Yichen Wang, Donglin Xie, <strong>Ziyi Ye</strong>, Chao Zhang, Xuesong Chen</dd>
-</dl>
+</dl> -->
 
 <hr>
 
