@@ -51,6 +51,11 @@ redirect_from:
   /* 链接颜色 */
   a {
     color: #0066cc; /* 链接颜色 */
+    text-decoration: none !important; /* 去掉所有超链接下划线 */
+  }
+
+  a:hover {
+    text-decoration: none !important;
   }
 
   /* 作者名字颜色 */
@@ -116,7 +121,7 @@ redirect_from:
 
   /* 只放大论文标题（在链接里的 strong），不影响作者名字 */
   dl dd a strong {
-    font-size: 2.15em;
+    font-size: 1.55em;
   }
 
   /* 论文标题虽然有超链接，但不显示下划线 */
