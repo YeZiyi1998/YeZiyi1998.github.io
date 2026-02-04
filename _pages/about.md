@@ -52,10 +52,14 @@ redirect_from:
   a {
     color: #0066cc; /* 链接颜色 */
     text-decoration: none !important; /* 去掉所有超链接下划线 */
+    border-bottom: none !important;   /* 覆盖主题里用边框画的下划线 */
+    box-shadow: none !important;      /* 如果是用阴影模拟的下划线也去掉 */
   }
 
   a:hover {
     text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
   }
 
   /* 作者名字颜色 */
@@ -121,7 +125,7 @@ redirect_from:
 
   /* 只放大论文标题（在链接里的 strong），不影响作者名字 */
   dl dd a strong {
-    font-size: 1.55em;
+    font-size: 1.95em;
   }
 
   /* 论文标题虽然有超链接，但不显示下划线 */
@@ -391,8 +395,6 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   <dd>Weixuan Yuan, Zengrui Jin, Yichen Wang, Donglin Xie, <strong>Ziyi Ye</strong>, Chao Zhang, Xuesong Chen</dd>
 </dl> -->
-
-<hr>
 
 <dl>
   <dt>
