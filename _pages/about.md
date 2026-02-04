@@ -319,7 +319,7 @@ My major research interests are about multimodel computing, Web search, large la
 
 
 <p style="color: red;"><b>
-    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: red;">视觉与学习实验室</a>，正积极招募具有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通（邮箱：zyye@fudan.edu.cn）。
+    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI and Human, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: red;">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: red;">视觉与学习实验室</a>，正积极招募有自驱力的学生加入研究团队，诚邀有志于揭示人类智能与机器智能的认知基础、推动人机智能深度协同交互的同学随时沟通（邮箱：zyye@fudan.edu.cn）。
 </b></p>
 
 # 🔥 News
