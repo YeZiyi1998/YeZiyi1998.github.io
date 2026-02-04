@@ -125,7 +125,7 @@ redirect_from:
 
   /* 只放大论文标题（在链接里的 strong），不影响作者名字 */
   dl dd a strong {
-    font-size: 1.95em;
+    font-size: 1.45em;
   }
 
   /* 论文标题虽然有超链接，但不显示下划线 */
