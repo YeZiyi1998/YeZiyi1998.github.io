@@ -350,6 +350,7 @@ My major research interests are about multimodel computing, Web search, large la
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li> 2026.02, our paper titled <b>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</b> is accepted by CVPR 2026.</li>
 <li> 2026.01, our paper titled <b>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</b> is accepted by ICRA 2026.</li>
 <li> 2026.01, our paper titled <b>SLEEP2VEC: Unified Cross-modal Alignment
 for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
@@ -370,6 +371,20 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 </div>
 
 # 📝 Publications
+
+
+<dl>
+  <dt>
+    <div class="media-container">
+      <img src="../images/CVPR2026Xie.png" wspace=20 hspace=10>
+      <span class="conference-label">ICRA 2026</span>
+    </div>
+  </dt>
+  <dd><a href="https://ziyiye.cn/files/CVPR2026Xie.pdf"><strong>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</strong></a></dd>
+  <dd>Yiweng Xie, Bo He, Junke Wang, Xiangyu Zheng, <strong>Ziyi Ye</strong>, Zuxuan Wu</dd>
+</dl>
+
+<hr>
 
 <dl>
   <dt>
