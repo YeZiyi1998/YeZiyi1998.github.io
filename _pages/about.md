@@ -372,12 +372,11 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 
 # 📝 Publications
 
-
 <dl>
   <dt>
     <div class="media-container">
       <img src="../images/CVPR2026Xie.png" wspace=20 hspace=10>
-      <span class="conference-label">ICRA 2026</span>
+      <span class="conference-label">CVPR 2026</span>
     </div>
   </dt>
   <dd><a href="https://ziyiye.cn/files/CVPR2026Xie.pdf"><strong>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</strong></a></dd>
