@@ -379,7 +379,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
       <span class="conference-label">CVPR 2026</span>
     </div>
   </dt>
-  <dd><a href="https://ziyiye.cn/files/CVPR2026Xie.pdf"><strong>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</strong></a></dd>
+  <dd><a href="https://arxiv.org/abs/2603.02096"><strong>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</strong></a></dd>
   <dd>Yiweng Xie, Bo He, Junke Wang, Xiangyu Zheng, <strong>Ziyi Ye</strong>, Zuxuan Wu</dd>
 </dl>
 
