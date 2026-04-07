@@ -21,6 +21,7 @@
 
 # # gem "jekyll"
 # gem "jekyll", "~> 4.3"
+# gem "jekyll-liveserve"
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # # If you have any plugins, put them here!
@@ -33,13 +34,16 @@
 source "https://rubygems.org"
 
 # 使用最新的 Jekyll 4
-gem "jekyll", "~> 4.3"
+gem 'sass', '~> 3.7.4'
+gem 'jekyll', '~> 3.9.0'
 gem "jekyll-paginate"
 gem "jekyll-feed"
 gem "jekyll-gist" # 如果你博文中用了 gist
 # 之前加过的 Ruby 4 补丁库
 gem "webrick"
 gem "logger"
+gem 'kramdown-parser-gfm'
+gem 'faraday-retry'
 gem "csv"
 gem "jekyll-sitemap"
 gem "jekyll-redirect-from"
