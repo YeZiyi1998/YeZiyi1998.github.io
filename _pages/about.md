@@ -349,6 +349,7 @@ My major research interests are about multimodel computing, Web search, large la
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li> 2026.05, our papers titled <b>How do Human Processes AI-generated Hallucination Contents: a Neuroimaging Study</b> is accepted by ICML 2026.</li>
 <li> 2026.04, our papers titled <b>Language reconstruction with brain predictive coding from fMRI data</b> and <b>TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation</b> are accepted by ACL 2026 main conferences and findings, respectively.</li>
 <li> 2026.04, our papers titled <b>Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data</b> and <b>Surge: A benchmark and evaluation framework for scientific survey generation</b> are accepted by SIGIR 2026.</li>
 <li> 2026.02, our paper titled <b>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</b> is accepted by CVPR 2026.</li>
