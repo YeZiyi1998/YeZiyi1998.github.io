@@ -307,12 +307,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University（复旦大学可信具身智能研究院）](https://teai.fudan.edu.cn/) and a member of [Fudan Vision and Learning Lab（复旦大学视觉与学习实验室，FVL）](https://fvl.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China.
 
-My major research interests are about multimodel computing, Web search, large language models, and embodied AI. <strong>My goal is to build an intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
-</strong> My primary areas of interest include:
+My major research interests are about embodied AI, multimodel computing, Web search, and large language models. <strong>My goal is to build an embodied intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
+</strong> Recently, my interested topics include:
 <ul>
-    <li><strong>Multimodal Computing:</strong> Developing models that can understand and integrate diverse sensory inputs (vision, language, touch, human signals, etc.) to perform complex, human-like tasks.</li>
-    <li><strong>Human-AI Interaction:</strong> Exploring intuitive and effective ways for autonomous agents to collaborate and communicate with human.</li>
-    <li><strong>Cognition of AI:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system through evolutionary processes.</li>
+    <li><strong>Memory Mechanism of Embodied AI:</strong> Developing models that can remember, reason, and use past experiences to interact with real-world physical environments.</li>
+    <li><strong>Fine-Grained Embodied Manipulation:</strong> Realizing robotic atomic manipulation capabilities via reinforcement learning to complete precise, fine-grained physical tasks.</li>
+    <li><strong>Mulitimodal AI Cognition and Verifiability:</strong> Investigating how cognitive abilities and complex behaviors emerge in AI system and whether these capabilities are verifiable to humans.</li>
 </ul>
 
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
