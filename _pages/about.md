@@ -377,6 +377,19 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <dl>
   <dt>
     <div class="media-container">
+      <img src="../images/vla-pro.png" wspace=20 hspace=10>
+      <span class="conference-label">CVPR 2026</span>
+    </div>
+  </dt>
+  <dd><a href="https://geniuslouis.github.io/VLA-Pro"><strong>VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models</strong></a></dd>
+  <dd>Shengyu Si, Yuanzhuo Lu, Ruimeng Yang, <strong>Ziyi Ye</strong>, Zuxuan Wu, Yu-gang Jiang</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt>
+    <div class="media-container">
       <img src="../images/CVPR2026Xie.png" wspace=20 hspace=10>
       <span class="conference-label">CVPR 2026</span>
     </div>
