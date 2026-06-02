@@ -307,7 +307,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor in [Institute of Trustworthy Embodied AI at Fudan University（复旦大学可信具身智能研究院）](https://teai.fudan.edu.cn/) and a member of [Fudan Vision and Learning Lab（复旦大学视觉与学习实验室，FVL）](https://fvl.fudan.edu.cn/). I received my Ph.D. from [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China.
 
-My major research interests are about embodied AI, multimodel computing, Web search, and large language models. <strong>My goal is to build an embodied intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
+My major research areas are about Embodied AI, multimodel computing, and Information Retrieval. <strong>My goal is to build an embodied intelligent system that can understand human needs, perform human-like behaviors, and interact with humans more effectively.
 </strong> Recently, my interested topics include:
 <ul>
     <li><strong>Memory Mechanism of Embodied AI:</strong> Developing models that can remember, reason, and use past experiences to interact with real-world physical environments.</li>
@@ -371,7 +371,9 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
 <li> 2023.09, I gave an invited talk in Machine Learning Section of Copenhagen University about <b>Brain-Computer Interface for Search</b>. <a href="https://yeziyi1998.github.io/files/BMI4Search_KU_230918.pdf" target="_blank">Slide</a></li>
 </ul>
 </div>
-
+<!-- 
+# Research Highlights
+ -->
 # 📝 Publications
 
 <dl>
@@ -383,6 +385,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   </dt>
   <dd><a href="https://geniuslouis.github.io/VLA-Pro"><strong>VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models</strong></a></dd>
   <dd>Shengyu Si, Yuanzhuo Lu, Ruimeng Yang, <strong>Ziyi Ye</strong>, Zuxuan Wu, Yu-gang Jiang</dd>
+  <dd color="red">We develop a cross-task procedural memory transfer framework that yields up to 51\% improvement on existing VLAs.</dd>
 </dl>
 
 <hr>
@@ -396,6 +399,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   </dt>
   <dd><a href="https://arxiv.org/abs/2603.02096"><strong>FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding</strong></a></dd>
   <dd>Yiweng Xie, Bo He, Junke Wang, Xiangyu Zheng, <strong>Ziyi Ye</strong>, Zuxuan Wu</dd>
+  <dd color="red">We propose a novel memory module that can adaptively learn and store streaming video features in a hierarchical manner.</dd>
 </dl>
 
 <hr>
@@ -409,6 +413,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   </dt>
   <dd><a href="https://ziyiye.cn/files/ICRA26_3090_MS.pdf"><strong>Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery</strong></a></dd>
   <dd>Yichang Liu, Tianyu Wang, <strong>Ziyi Ye</strong>, Yawei Li, Yanwei Fu, Yu-gang Jiang, Shouyan Wang</dd>
+  <dd color="red">We develop a robotic grasping system that can control the placement of objects based on human's mental imagery.</dd>
 </dl>
 
 <hr>
@@ -434,6 +439,7 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   </dt>
   <dd><a href="https://aclanthology.org/2025.emnlp-main.662.pdf"><strong>SimVBG: Simulating Individual Values by Backstory Generation</strong></a></dd>
   <dd>Bangde Du, <strong>Ziyi Ye</strong>, Zhijing Wu, Monika Jankowska, Shuqi Zhu, Qingyao Ai, Yujia Zhou, Yiqun Liu</dd>
+  <dd color="red">We propose a method to simulate individual values by generating backstories as a form of personalization.</dd>
 </dl>
 
 <hr>
@@ -447,11 +453,12 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   </dt>
   <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729909"><strong>Brain Image Reconstruction with Retrieval-Augmented Diffusion</strong></a></dd>
   <dd>Shuqi Zhu, <strong>Ziyi Ye</strong>, Yi Zhong, Qingyao Ai, Yujia Zhou, Yiqun Liu</dd>
+  <dd color="red">We propose a retrieval augmented diffusion method to reconstruct images with brain input.</dd>
 </dl>
 
 <hr>
 
-<dl>
+<!-- <dl>
   <dt>
     <div class="media-container">
       <img src="../images/SIGIR2025su.png">
@@ -462,7 +469,7 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   <dd>Weihang Su, Yichen Tang, Qingyao Ai, Junxi Yan, Changyue Wang, Hongning Wang, <strong>Ziyi Ye</strong>, Yujia Zhou, Yiqun Liu</dd>
 </dl>
 
-<hr>
+<hr> -->
 
 <!-- <dl>
   <dt>
@@ -475,9 +482,9 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   <dd>Haitao Li, Qian Dong, Junjie Chen, Huixue Su, Yujia Zhou, Qingyao Ai, <strong>Ziyi Ye</strong>, Yiqun Liu</dd>
 </dl> -->
 
-<hr>
+<!-- <hr> -->
 
-<dl>
+<!-- <dl>
   <dt>
     <div class="media-container">
       <video controls preload="metadata" poster="">
@@ -492,7 +499,7 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   <dd> Relevant papers are published in <a href="https://doi.org/10.1038/s42003-025-07731-7">Nature Commun. Biol. </a>, <a href="http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf">SIGIR</a>, <a href="https://arxiv.org/abs/2402.15708"> Multimedia </a>, <a href="https://arxiv.org/abs/2312.05669">TOIS</a>, and etc. </dd>
 </dl>
 
-<hr>
+<hr> -->
 
 <dl>
   <dt>
@@ -503,6 +510,7 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   </dt>
   <dd><a href="https://openreview.net/forum?id=HZVIQE1MsJ"><strong>Learning LLM-as-a-Judge for Preference Alignment</strong></a></dd>
   <dd><strong>Ziyi Ye</strong>, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun Liu</dd>
+  <dd color="red">We propose a method to learn a robust and interpretable LLM-as-a-judge for preference alignment.</dd>
 </dl>
 
 <hr>
@@ -516,6 +524,7 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
   </dt>
   <dd><a href="https://doi.org/10.1038/s42003-025-07731-7"><strong>Generative Language Reconstruction from Brain Recordings</strong></a></dd>
   <dd><strong>Ziyi Ye</strong>, Qingyao Ai, Yiqun Liu, Maarten de Rijke, Min Zhang, Christina Lioma, and Tuukka Ruotsalo</dd>
+  <dd color="red">We propose a method to reconstruct language from brain recordings in a unified generative manner.</dd>
 </dl>
 
 <hr>
@@ -551,7 +560,8 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
 * 2016, **Silver medal in Chinese Mathematical Olympiad(CMO)**, China Mathematical Federation.
 
 # 📚 Teaching Experience
-* 2024\. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor of "Retrieval-argumented generation".)
+* 2026\. Instructor at "Image Processing and Computer Vision", Fudan University.
+* 2024\. Teaching assistant at GenAI summer school, Tsinghua University. (Instructor at "Retrieval-argumented generation".)
 * 2020-2025\. Teaching assistant at "Fundamental Search Engine", Tsinghua University.
 
 # 🏆 Competitions
@@ -559,6 +569,8 @@ for Heterogeneous Nocturnal Biosignals</strong></a></dd>
 * We won the 1st place in the NTCIR-15 Micro-activity Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf).
 
 # 📊 Datasets
+
+* [EEG-Hallucination Dataset](https://arxiv.org/pdf/2605.16953). In our Paper *How do Human Processes AI-generated Hallucination Contents: a Neuroimaging Study*.
 
 * [EEG-Imagenet Dataset](https://arxiv.org/pdf/2406.07151). In our Paper *EEG-imagenet: An electroencephalogram dataset and benchmarks with image visual stimuli of multi-granularity labels*.
 
