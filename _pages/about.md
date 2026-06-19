@@ -318,7 +318,7 @@ My major research areas are about Embodied AI, multimodel computing, and Informa
 <!-- I have published more than 20 papers at the top international AI conferences <a href='https://scholar.google.com/citations?user=M3Qsb6cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 <p style="color: black;">
-    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank" style="color: blue; text-decoration: underline;"><b>复旦大学可信具身智能研究院</b></a>和<a href="https://fvl.fudan.edu.cn/" target="_blank" style="color: blue; text-decoration: underline;"><b>视觉与学习实验室</b></a>，正积极招募有自驱力的学生加入研究团队（<a href="https://ccn4f8ql2gb4.feishu.cn/wiki/KBOywjgGKipxrtkZ6SncVn90nsb?from=from_copylink" target="_blank" style="color: blue; text-decoration: underline;"><b>招生说明</b></a>），请随时沟通（邮箱：zyye@fudan.edu.cn）。
+    I am actively looking for self-motivated students to join my research group. If you are passionate about building the future of AI, please feel free to reach out. 本人依托<a href="https://teai.fudan.edu.cn/" target="_blank">复旦大学可信具身智能研究院</a>和<a href="https://fvl.fudan.edu.cn/" target="_blank">视觉与学习实验室</a>，正积极招募有自驱力的学生加入研究团队（<a href="https://ccn4f8ql2gb4.feishu.cn/wiki/KBOywjgGKipxrtkZ6SncVn90nsb?from=from_copylink" target="_blank">招生说明</a>），请随时沟通（邮箱：zyye@fudan.edu.cn）。
 </p>
 
 # 🔥 News
@@ -385,7 +385,7 @@ for Heterogeneous Nocturnal Biosignals</b> is accepted by ICLR 2026.</li>
   </dt>
   <dd><a href="https://geniuslouis.github.io/VLA-Pro"><strong>VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models</strong></a></dd>
   <dd>Shengyu Si, Yuanzhuo Lu, Ruimeng Yang, <strong>Ziyi Ye</strong>, Zuxuan Wu, Yu-gang Jiang</dd>
-  <dd style="color: red;">We develop a cross-task procedural memory transfer framework that yields up to 51\% improvement on existing VLAs.</dd>
+  <dd style="color: red;">We develop a cross-task procedural memory transfer framework that yields up to 51% improvement on existing VLAs.</dd>
 </dl>
 
 <hr>
