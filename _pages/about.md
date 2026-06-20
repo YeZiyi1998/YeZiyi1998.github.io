@@ -349,6 +349,7 @@ My major research areas are about Embodied AI, multimodel computing, and Informa
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li> 2026.06, our paper titled <b>Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation</b> is accepted by ECCV 2026.</li>
 <li> 2026.05, our paper titled <b>How do Human Processes AI-generated Hallucination Contents: a Neuroimaging Study</b> is accepted by ICML 2026.</li>
 <li> 2026.04, our papers titled <b>Language reconstruction with brain predictive coding from fMRI data</b> and <b>TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation</b> are accepted by ACL 2026 main conferences and findings, respectively.</li>
 <li> 2026.04, our papers titled <b>Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data</b> and <b>Surge: A benchmark and evaluation framework for scientific survey generation</b> are accepted by SIGIR 2026.</li>
