@@ -349,6 +349,8 @@ My major research areas are about Embodied AI, multimodel computing, and Informa
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li> 2026.07, we released a 5,000-hour tactile manipulation dataset alongside models trained upon it to advance research on contact-rich robotic manipulation. <a href="https://research.neoteai.com/n0-foundation/h" target="_blank">Dataset</a> </li>
+<li> 2026.07, we present automotive lamp assembly robot at WAIC 2026, which  has been reported by mainstream media such as CCTV News, Xinhua News, and Fudan University. <a href="https://weixin.qq.com/sph/Ahv8c94N6h" target="_blank">News</a></li>
 <li> 2026.06, our paper titled <b>Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation</b> is accepted by ECCV 2026.</li>
 <li> 2026.05, our paper titled <b>How do Human Processes AI-generated Hallucination Contents: a Neuroimaging Study</b> is accepted by ICML 2026.</li>
 <li> 2026.04, our papers titled <b>Language reconstruction with brain predictive coding from fMRI data</b> and <b>TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation</b> are accepted by ACL 2026 main conferences and findings, respectively.</li>
