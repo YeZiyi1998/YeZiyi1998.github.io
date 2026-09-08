@@ -1,0 +1,75 @@
+:root { color-scheme: light; --ink: #242424; --muted: #626262; --link: #1768a6; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 88px; }
+body { margin: 0; background: #fff; color: var(--ink); font: 16px/1.65 Arial, Helvetica, sans-serif; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible, .news-scroll:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
+.academic-page { max-width: 960px; margin: 0 auto; padding: 16px 32px 28px; }
+.section-nav { position: sticky; top: 0; z-index: 10; display: flex; gap: 24px; overflow-x: auto; padding: 17px 0; margin-bottom: 36px; background: #fff; border-bottom: 1px solid #e8edf1; scrollbar-width: thin; }
+.section-nav a { flex: 0 0 auto; color: var(--muted); font-size: 15px; padding: 3px 0; }
+.section-nav a:hover, .section-nav a:focus-visible { color: var(--link); }
+.profile { display: flex; align-items: center; gap: 42px; margin-bottom: 36px; }
+.portrait { width: 180px; height: 180px; object-fit: cover; border-radius: 3px; }
+h1 { font-size: 34px; line-height: 1.2; font-weight: 500; margin: 0 0 14px; letter-spacing: -.7px; }
+h1 span { font-size: 26px; margin-left: 8px; letter-spacing: 0; }
+.profile p { margin: 5px 0; }
+.profile .position { font-size: 18px; }
+.profile nav { margin-top: 10px; }
+.profile nav span { color: #aaa; margin: 0 7px; }
+p { margin: 0 0 16px; }
+h2 { font-size: 25px; line-height: 1.3; font-weight: 500; margin: 36px 0 17px; }
+h3 { font-size: 17px; line-height: 1.45; margin: 0 0 7px; font-weight: 600; }
+ul { padding-left: 22px; margin: 12px 0 20px; }
+li { margin: 7px 0; }
+.recruitment { margin-top: 20px; }
+.news-scroll { max-height: 320px; overflow-y: auto; padding: 0 16px 0 0; scrollbar-gutter: stable; scrollbar-width: thin; scrollbar-color: #b1bcc5 #f4f6f8; }
+.news-list { font-size: 15px; margin: 0; }
+.news-list li { margin: 0 0 12px; }
+.news-scroll::-webkit-scrollbar { width: 8px; }
+.news-scroll::-webkit-scrollbar-track { background: #f4f6f8; border-radius: 4px; }
+.news-scroll::-webkit-scrollbar-thumb { background: #b1bcc5; border-radius: 4px; }
+@media print { .news-scroll { max-height: none; overflow: visible; } }
+.publications { margin-top: 24px; }
+.publication { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 27px; align-items: center; margin: 0 0 32px; }
+.publication-image { display: block; }
+.publication img { display: block; width: 100%; height: auto; object-fit: contain; }
+.publication p { margin: 3px 0; font-size: 14px; line-height: 1.55; }
+.venue { font-style: italic; }
+.paper-description { color: var(--muted); }
+table { width: 100%; border-collapse: collapse; font-size: 15px; }
+th, td { text-align: left; padding: 10px 12px 10px 0; border-bottom: 1px solid #eee; vertical-align: top; }
+th:first-child, td:first-child { width: 145px; }
+footer { border-top: 1px solid #eee; margin-top: 45px; padding-top: 18px; color: var(--muted); font-size: 13px; }
+footer span { margin: 0 8px; }
+.skip-link { position: absolute; left: 16px; top: -60px; background: white; padding: 8px; }
+.skip-link:focus { top: 8px; }
+@media (max-width: 640px) {
+  .academic-page { padding: 8px 22px 24px; }
+  .profile { gap: 22px; align-items: flex-start; }
+  .portrait { width: 110px; height: 130px; }
+  h1 { font-size: 27px; }
+  h1 span { display: block; font-size: 21px; margin: 6px 0 0; }
+  .profile p, .profile nav { font-size: 14px; }
+  .profile .position { font-size: 15px; }
+  .section-nav { gap: 20px; margin-bottom: 28px; }
+}
+@media (max-width: 440px) {
+  .profile { flex-direction: column; gap: 20px; }
+  .portrait { width: 140px; height: 140px; }
+  h1 span { display: inline; margin-left: 6px; }
+  .publication { grid-template-columns: 1fr; gap: 12px; }
+  .publication img { width: 100%; }
+  th:first-child, td:first-child { width: 100px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+@media (max-width: 760px) {
+  .publication { grid-template-columns: 1fr; gap: 16px; }
+  .publication-image { width: 100%; max-width: 480px; }
+}
+@media print { .section-nav { position: static; } }
+
+/* VLA-Pro: display rows (a) and (b), ending above the divider before (c). */
+.publication-image--vla-pro { aspect-ratio: 1113 / 654; overflow: hidden; }
+.publication .publication-image--vla-pro img { height: 100%; object-fit: cover; object-position: center top; }
