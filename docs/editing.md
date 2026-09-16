@@ -17,7 +17,7 @@ bash run_server.sh
 | 要修改的内容 | 在 index.html 中搜索 |
 | --- | --- |
 | 姓名、头像、邮箱 | `个人信息` 或 `class="profile"` |
-| 个人介绍、招生信息 | `I am an Assistant Professor` 或 `recruitment` |
+| 个人介绍、招生信息 | `I am an Assistant Professor` 或 Research 内的 `recruitment` |
 | 新闻 | `id="news"` |
 | 研究方向 | `id="research"` |
 | 论文 | `id="selected-publications"` |
@@ -53,7 +53,7 @@ HTML 里的 `<!-- 中文说明 -->` 是编辑提示，不会显示在网页上�
 
 删除一条新闻时，删除对应的完整 `<li>…</li>`。所有新闻都放在同一个列表里，外层滚动框会自动处理高度，不用计算显示条数。
 
-修改 News 区域高度：在 `assets/css/academic.css` 搜索 `.news-scroll`，将 `max-height: 320px` 改为你希望的高度，如 `400px`。
+修改 News 区域高度：在 `assets/css/academic.css` 搜索 `.news-scroll`，将 `max-height: 220px` 改为你希望的高度，如 `400px`。
 
 ## 4. 添加一篇论文
 
