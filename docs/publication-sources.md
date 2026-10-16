@@ -1,5 +1,7 @@
 # 新增论文资料来源
 
+2026-10-16 新增 Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory。标题、作者顺序和简介依据 [arXiv 摘要页](https://arxiv.org/abs/2610.19366)，标注为 2026 年预印本；作者列表简写并保留末位作者 Ziyi Ye。配图 `images/multimodal-agent-memory.png` 为[论文 PDF](https://arxiv.org/pdf/2610.19366) 首页截图，裁去页边、摘要和脚注，保留完整标题、作者与机构区域，渲染为 1019 × 674 PNG，以适配论文列表的横向格子。
+
 核对日期：2026-09-08。论文标题、作者顺序与简介依据 arXiv 和作者项目页；CoRL 2026 录用由主页作者在本次更新中确认，公开项目页目前仍使用预印本信息。News 的 2026.09 表示本次新闻发布月份。
 
 | 论文 | 资料 | 本地配图及来源 |
